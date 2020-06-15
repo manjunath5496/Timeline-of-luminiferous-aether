@@ -13,7 +13,7 @@
 <li><a href="#course12">Tumor Pathophysiology and Transport Phenomena</a></li>
 <li><a href="#course13">Principles and Practice of Tissue Engineering</a></li>
 <li><a href="#course14">Health Information Systems to Improve Quality of Care in Resource-Poor Settings</a></li>
-<li><a href="#course15">Engineering of Nuclear Reactors</a></li>
+<li><a href="#course15">Computing for Biomedical Scientists</a></li>
 <li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
 <li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
 <li><a href="#course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
@@ -1595,4 +1595,100 @@
 <p><a href="1/MITHST_S14S12_proj_i2b2.pdf">"Designing a Public Health Software Framework: Porting OpenMRS data to i2b2" (PDF - 1.0MB)</a>&nbsp;by Tewuh Fomunyam, Jamie Symonds, and Stephen Lorenz.</p>
 <p><a href="1/MITHST_S14S12_proj_usfund.pdf">"Impact of US Federal Funding on Global e-Health Initiatives in Developing Countries" (PDF)</a>&nbsp;by Patrick Pascal Saint-Firmin, Olateju Sarafadeen, Ikenna Momah, Arjuna Premachandra, and anonymous student.</p>
 <p><a href="1/MITHST_S14S11_proj_vaccine.pdf">"Vaccine Supply Chain in Ethiopia" (PDF)</a>&nbsp;by Hajara Nanteza Walusimbi and three anonymous students.</p>
+</br>
+<h2 id="course15">Computing for Biomedical Scientists</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Part 1: Introduction to Computing</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Course Overview (<a href="2/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Algorithms and Object Oriented Programming (<a href="2/lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Java<sup>&reg;</sup>&nbsp;Constructs (<a href="2/lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Built-in Operators, Built-in Java Classes, and Classes, Objects &amp; Methods (<a href="2/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Recursion and Iteration, Imperative &amp; Declarative Programming, Abstract Data Types (ADTs), Arrays, and Classes, Object &amp; Methods (continued) (<a href="2/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Designing Methods, Wrapper Classes, Arrays, Packages, Inheritance, Derived Classes, and Dynamic Binding (<a href="2/lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Information Hiding, Exceptions (<a href="2/lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vectors, Streams, Input and Output (<a href="2/lecture8.pdf">PDF</a>)<br />Lecture 8 Code (<a href="2/code_lecture8.zip">ZIP</a>) (zip file includes: TestRotation2.java, TestVector2.java, RotateText.java, KeyboardInput.java, TestSimpleParser.java, TestRotation.java, TestVector.java, and Medinfo.txt)</td>
+</tr>
+<tr class="alt-row">
+<td>Searching and Sorting (<a href="2/lecture9.pdf">PDF</a>)<br />Lecture 9 Code (<a href="2/code_lecture9.zip">ZIP</a>) (zip file includes: TestBinarySearch.java, TestMergeSort.java, and TestSelectionSort.java)</td>
+</tr>
+<tr class="row">
+<td>Time Complexity of Algorithms (<a href="2/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review Session (<a href="2/lecture11.pdf">PDF</a>)<br />Review Session Solutions (<a href="2/lecture11solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Part 2: Data and Knowledge Representation</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Logic and Medical Ontology (<a href="2/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Boolean Algebra and Predicate Knowledge (<a href="2/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ontology and Data Model (<a href="2/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Medical Vocabulary Representation and Survey of Medical Coding Systems (<a href="2/lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Medical Coding Systems (continued) and UMLS (<a href="2/Lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Major KR Schemes (<a href="2/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Process (<a href="2/lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Part 3: Data Management, Querying and Retrieval</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Nature of Data</td>
+</tr>
+<tr class="row">
+<td>Data Models</td>
+</tr>
+<tr class="alt-row">
+<td>Maintaining Integrity of Data</td>
+</tr>
+<tr class="row">
+<td>Implementing a Relational Database</td>
+</tr>
+<tr class="alt-row">
+<td>Overview of Object Oriented Data Management</td>
+</tr>
+<tr class="row">
+<td>Modeling for Analytical Processing of Data</td>
+</tr>
+<tr class="alt-row">
+<td>No Lecture, Final Project Due</td>
+</tr>
+</tbody>
+</table>
 </br>
