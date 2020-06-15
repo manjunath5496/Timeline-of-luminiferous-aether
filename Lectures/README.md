@@ -26,7 +26,7 @@
 <li><a href="#course25">Information Technology in the Health Care System of the Future</a></li>
 <li><a href="#course26">Functional Magnetic Resonance Imaging: Data Acquisition and Analysis</a></li>
 <li><a href="#course27">Medical Decision Support</a></li>
-<li><a href="#course28">Introduction to Sustainable Energy</a></li> 
+<li><a href="#course28">Biomedical Computing</a></li> 
  <li><a href="#course29">Managing Nuclear Technology</a></li> 
   <li><a href="#course30">A Hands-On Introduction to Nuclear Magnetic Resonance</a></li>
    <li><a href="#course31">Nuclear Power Plant Dynamics and Control</a></li> 
@@ -2887,3 +2887,185 @@
 <p><a href="http://ocw.mit.edu/ans7870/HST/HST.951/f05/projects/JessieChen/MDS%20Final%20Project.htm">C# .NET Algorithm for Variable Selection Based on the Mallow's Cp Criterion</a></p>
 <p>Final Report (<a href="5/jessiechenpaper.pdf">PDF</a>)</p>
 </br>
+<h2 id="course28">Biomedical Computing</h2>
+
+
+<table class="tablewidth" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURES</th>
+<th scope="col">FILES</th>
+<th scope="col">READINGS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (Peter Szolovits)</td>
+<td><span class="nobr">(<a href="5/2012_AnnualReportDorenfest.pdf">PDF - 1.3MB</a>)</span></td>
+<td>
+<p>[Text] Chapter 1, and 2</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Nature of clinical data (Peter Szolovits)</td>
+<td>(<a href="5/MITHST_950JF10_lec2.pdf">PDF</a>)</td>
+<td>[Text] Chapter 12</td>
+</tr>
+<tr class="row">
+<td>Standards (Peter Szolovits)</td>
+<td>
+<p>(<a href="5/MITHST_950JF10_lec3_1.pdf">PDF</a>)</p>
+<p>(<a href="5/MITHST_950JF10_lec3_2.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Data in narrative text (Peter Szolovits)</td>
+<td>(<a href="5/MITHST_950JF10_lec4.pdf">PDF</a>)</td>
+<td>[Text] Chapter 8</td>
+</tr>
+<tr class="row">
+<td>Gene, expression and protein data (Alvin Kho)</td>
+<td>&nbsp;</td>
+<td>
+<p>[Text] Chapter 22</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Genes and modeling (Alvin Kho)</td>
+<td>&nbsp;</td>
+<td>MAQC Consortium. "<a href="http://dx.doi.org/10.1038/nbt1239">The MicroArray Quality Control (MAQC) Project Shows Inter- and Intraplatform Reproducibility of Gene Expression Measurements</a>."&nbsp;<em>Nature Biotechnology</em>&nbsp;24, no. 9 (2006).</td>
+</tr>
+<tr class="row">
+<td>Building models (Peter Szolovits)</td>
+<td><span class="nobr">(<a href="5/MITHST_950JF10_lec7.pdf">PDF - 1.2MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Probabilistic and graphical models (Peter Szolovits)</td>
+<td>&nbsp;</td>
+<td>[Text] Chapter 3</td>
+</tr>
+<tr class="row">
+<td>Information theoretic metrics (Gil Alterovitz)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Decision support via probabilities and utilities (Peter Szolovits)</td>
+<td><span class="nobr">(<a href="5/MITHST_950JF10_lec10.pdf">PDF - 1.2MB</a>)</span></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Decision support via expert systems (Peter Szolovits)</td>
+<td><span class="nobr">(<a href="5/MITHST_950JF10_lec11.pdf">PDF - 1.0MB</a>)</span></td>
+<td>
+<p>[Text] Chapter 20</p>
+<p>Pople, H. E., Jr. "<a href="http://groups.csail.mit.edu/medg/people/psz/ftp/AIM82/ch5.html">Heuristic Methods for Imposing Structure on Ill-Structured Problems: Medical Diagnostics</a>." 1982.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Using the healthcare enterprise for research (Isaac Kohane)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Personally controlled health records (Kenneth Mandl)</td>
+<td>&nbsp;</td>
+<td>
+<p>Mandl, Kenneth D., and Isaac S. Kohane. "<a href="http://dx.doi.org/10.1056/nejmsb0800220">Tectonic Shifts in the Health Information Economy</a>."&nbsp;<em>New England Journal of Medicine</em>&nbsp;358, no. 16 (2008).</p>
+<p>&mdash;&mdash;&mdash;. "No Small Change for the Health Information Economy."&nbsp;<em>New England Journal of Medicine</em>&nbsp;360, no. 13 (2009).</p>
+<p>MIT Sana (<a href="5/MITHST_950JF10_sana.pdf">PDF</a>) (Courtesy of Leo Anthony Celi. Used with permission.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Modeling with bayesian networks (Peter Szolovits)</td>
+<td>(<a href="5/MITHST_950JF10_lec14.pdf">PDF</a>)</td>
+<td>
+<p>Pearl, Judea. "<a href="http://www.springerlink.com/content/x5u455030005547j/">Causal Inference in the Health Sciences: A Conceptual Introduction</a>."&nbsp;<em>Health Services &amp; Outcomes Research Methodology</em>&nbsp;2, no. 3-4 (2001).</p>
+<p><a href="http://research.microsoft.com/apps/pubs/default.aspx?id=69588">A tutorial on learning with Bayesian networks</a></p>
+<p>Szolovits, Peter. "<a href="http://www.ncbi.nlm.nih.gov/pubmed/9082120">Uncertainty and Decisions in Medical Informatics</a>."&nbsp;<em>Methods of Information in Medicine</em>&nbsp;34, no. 1-2 (1995).</p>
+</td>
+</tr>
+<tr class="row">
+<td>Patient monitoring and intensive care (Leo Celi)</td>
+<td>
+<p>(<a href="5/MITHST_950JF10_lec15_1.pdf">PDF</a>)</p>
+<p><span class="nobr">(<a href="5/MITHST_950JF10_sana.pdf">PDF - 3.9MB</a>)</span></p>
+<p>(Courtesy of Leo Anthony Celi. Used with permission.)</p>
+</td>
+<td>Celi, Leo Anthony G., et al. "A Clinical Database-Driven Approach to Decision Support: Predicting Mortality Among Patients with Acute Kidney Injury."&nbsp;<em>Journal of Healthcare Engineering</em>&nbsp;1, no. 2 (2011).</td>
+</tr>
+<tr class="alt-row">
+<td>HIT in the developing world (Hamish Fraser)</td>
+<td><span class="nobr">(<a href="5/MITHST_950JF10_lec16.pdf">PDF - 3.6MB</a>)</span>&nbsp;(Courtesy of Hamish Fraser. Used with permission.)</td>
+<td>
+<p>Mamlin, Burke W., et al. "<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1839638/">Cooking up an Open-Source EMR for Developing Countries: OpenMRS &ndash; A Recipe for Successful Collaboration</a>."&nbsp;<em>AMIA Annu Symp Pro</em>c (2006).</p>
+<p>Amoroso, Cheryl L., et al. "<a href="http://www.ncbi.nlm.nih.gov/pubmed/20841704">Using Electronic Medical Records for HIV Care in Rural Rwanda</a>."&nbsp;<em>Studies in Health Technology and Informatics</em>&nbsp;160 (2010).</p>
+<p>Were, Martin C., et al. "<a href="http://www.ncbi.nlm.nih.gov/pubmed/20841742">Leapfrogging Paper-Based Records using Handheld Technology: Experience from Western Kenya</a>."&nbsp;<em>Studies in Health Technology and Informatics</em>&nbsp;160<em>&nbsp;</em>(2010).</p>
+</td>
+</tr>
+<tr class="row">
+<td>Learning bayesian networks (Peter Szolovits)</td>
+<td>(<a href="5/MITHST_950JF10_lec17.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Informatics in radiology (Ronilda Lacson)</td>
+<td>&nbsp;</td>
+<td>
+<p>[Text] Chapters 9, and 18</p>
+<p>Branstetter, Barton F. "Basics of Imaging Informatics: Part 1."&nbsp;<em>Radiology</em>&nbsp;243, no. 3 (2007).</p>
+<p>&mdash;&mdash;&mdash;."Basics of Imaging Informatics: Part 2."&nbsp;<em>Radiology</em>&nbsp;244, no. 1 (2007).</p>
+</td>
+</tr>
+<tr class="row">
+<td>Predictive genomics (Michael McGeachie)</td>
+<td>&nbsp;</td>
+<td>
+<p>Sebastiani, Paola, et al. "<a href="http://dx.doi.org/10.1038/ng1533">Genetic Dissection and Prognostic Modeling of Overt Stroke in Sickle Cell Anemia</a>."&nbsp;<em>Nature Genetics</em>&nbsp;37, no. 4 (2005).</p>
+<p>Allocco, Dominic J., et al. "<a href="http://dx.doi.org/10.1186/1471-2164-8-68">Geography and Genography: Prediction of Continental Origin Using Randomly Selected Single Nucleotide Polymorphisms</a>."&nbsp;<em>BMC Genomics</em>&nbsp;8, no. 68 (2007).</p>
+<p>Lewis, Cathryn M. "<a href="http://dx.doi.org/10.1093/bib/3.2.146">Genetic Association Studies: Design, Analysis and Interpretation</a>."&nbsp;<em>Briefings in Bioinformatics</em>&nbsp;3<em>,&nbsp;</em>no. 2 (2002).</p>
+<p>McGeachie, Michael, et al. "<a href="http://dx.doi.org/10.1161/CIRCULATIONAHA.109.865501">Integrative Predictive Model of Coronary Artery Calcification in Atherosclerosis</a>."&nbsp;<em>Circulation</em>&nbsp;120 (2009).</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Patient data privacy (Peter Szolovits and Chris Cassa)</td>
+<td>(<a href="5/MITHST_950JF10_lec20_2.pdf">PDF</a>)</td>
+<td>Meystre, S. M., et al. "<a href="http://dx.doi.org/10.1186/1471-2288-10-70">Automatic De-Identification of Textual Documents in the Electronic Health Record: A Review</a>."&nbsp;<em>BMC Medical Research Methodology</em>&nbsp;10 (2010): 70.</td>
+</tr>
+<tr class="row">
+<td>Public health informatics (John Brownstein)</td>
+<td>&nbsp;</td>
+<td>[Text] Chapter 15</td>
+</tr>
+<tr class="alt-row">
+<td>Computer science challenges from health care (Peter Szolovits)</td>
+<td>(<a href="5/MITHST_950JF10_lec22.pdf">PDF</a>)</td>
+<td>Stead, W. W., and H. S. Lin, editors.&nbsp;<em>Computational Technology for Effective Health Care: Immediate Steps and Strategic Directions</em>. Committee on Engaging the Computer Science Research Community in Health Care; National Research Council. National Academies Press, 2009. (<a href="5/comptech_prepub.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Networks (Gil Alterovitz)</td>
+<td>&nbsp;</td>
+<td>
+<h3 class="subsubhead">Suggested Reading</h3>
+<p>&nbsp;Alterovitz, Gil, and Marco F. Ramoni, editors. Chapters 1 and 7 in&nbsp;<em>Systems Bioinformatics</em>. Artech House Publishers, 2007. ISBN: 9781596931244.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Final project presentations</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Butte, A. J., and I. S. Kohane. "Mutual Information Relevance Networks: Functional Genomic Clustering Using Pairwise Entropy Measurements."&nbsp;<em>Pacific Symposium on Biocomputing</em>&nbsp;5 (2000). (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/comptech_prepub.pdf">PDF</a>)</p>
+<p>Alterovitz, Gil. "System-Wide Peripheral Biomarker Discovery Using Information Theory."<em>&nbsp;Pacific Symposium on Biocomputing&nbsp;</em>13 (2008). (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/alterovitz.pdf">PDF</a>)</p>
+<p>Clifford, G., et al. "Robust Parameter Extraction for Decision Support Using Multimodal Intensive Care Data."&nbsp;<em>Philosophical Transactions of the Royal Society&nbsp;</em>A 367 (2009). (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/clifford-2009.pdf">PDF</a>)</p>
+<p>Stead, William W., and Herbert S. Lin, eds. "Computational Technology for Effective Health Care: Immediate Steps and Strategic Directions." National Academies Press, 2009. (<a href="5/comptech_2009.pdf">PDF</a>)</p>
+
+</br>
+
+
+
