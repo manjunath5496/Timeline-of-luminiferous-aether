@@ -5,7 +5,7 @@
 <li><a href="#course4">Gastroenterology</a></li>
 <li><a href="#course5">Introduction to Neuroscience</a></li>
 <li><a href="#course6">Principles of Pharmacology</a></li>
-<li><a href="#course7">Engineering of Nuclear Systems</a></li>
+<li><a href="#course7">Cellular and Molecular Immunology</a></li>
 <li><a href="#course8">Introduction to Sustainable Energy</a></li>
 <li><a href="#course9">Nuclear Reactor Safety</a></li>
 <li><a href="#course10">Applied Nuclear Physics</a></li>
@@ -732,3 +732,190 @@
 <p>Midterm Exam (<a href="2005_midterm.pdf">PDF</a>)</p>
 <p>Final Exam (<a href="2005_final.pdf">PDF</a>)</p>
 </br>
+<h2 id="course7">Cellular and Molecular Immunology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Overview -&nbsp;<em>Dr. Shiv Pillai</em></td>
+</tr>
+<tr class="alt-row">
+<td>Cells of the Immune System -&nbsp;<em>Dr. Shiv Pillai</em>&nbsp;(<a href="1/inn_immun_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lymphocyte Homing -&nbsp;<em>Dr. Ulrich von Andrian</em>&nbsp;(<a href="1/lymph_homing_lec.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Case Presentations at MGH</td>
+</tr>
+<tr class="row">
+<td>Antibodies and Antigens -&nbsp;<em>Dr. Shiv Pillai</em>&nbsp;(<a href="1/antibodies_2005.pdf">PDF</a>)<br /><br />Analyzing a Clinical Case -&nbsp;<em>Dr. Bobby Cherayil</em></td>
+</tr>
+<tr class="alt-row">
+<td>Antigen Receptors and the Generation of Diversity -&nbsp;<em>Dr. Shiv Pillai</em>&nbsp;(<a href="1/antigen_rec.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Case Presentations at MGH</td>
+</tr>
+<tr class="alt-row">
+<td>B Lymphocyte Development and Activation -&nbsp;<em>Dr. Shiv Pillai</em>&nbsp;(<a href="1/b_lymphocytes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Tutorial Session I<br /><br />Antibody Dependent Protection -&nbsp;<em>Dr. Shiv Pillai</em></td>
+</tr>
+<tr class="alt-row">
+<td>Antigen Presentation -&nbsp;<em>Dr. Hidde Ploegh</em>&nbsp;(<a href="1/antigen_pres.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Tutorial Session II<br /><br />T Lymphocyte Development -&nbsp;<em>Dr. Shiv Pillai</em>&nbsp;(<a href="1/t_lymphocytes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Tutorial Session III<br /><br />Signal Transduction in Lymphocytes I -&nbsp;<em>Dr. Shiv Pillai</em></td>
+</tr>
+<tr class="row">
+<td>Cell Mediated Immunity -&nbsp;<em>Dr. Andrew Lichtman</em>&nbsp;(<a href="1/cell_med_immune.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Tutorial Session IV<br /><br />Signal Transduction in Lymphocytes II -&nbsp;<em>Dr. Shiv Pillai</em></td>
+</tr>
+<tr class="row">
+<td>Paper Discussion 1</td>
+</tr>
+<tr class="alt-row">
+<td>Midterm Exam</td>
+</tr>
+<tr class="row">
+<td>Dendritic Cells -&nbsp;<em>Dr. Shannon Turley</em><br /><br />Frontiers: Costimulation -&nbsp;<em>Dr. Arlene Sharpe</em>&nbsp;(<a href="1/costimulation.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Paper Discussion 2</td>
+</tr>
+<tr class="row">
+<td>Memory and Death -&nbsp;<em>Dr. Shiv Pillai</em>&nbsp;(<a href="1/mem_death_immun.pdf">PDF</a>)<br /><br />Immunology of TB -&nbsp;<em>Dr. Samuel M. Behar</em></td>
+</tr>
+<tr class="alt-row">
+<td>Tutorial Session V<br /><br />Immune Mediated Injury -&nbsp;<em>Dr. Richard Mitchell</em></td>
+</tr>
+<tr class="row">
+<td>Asthma and Allergy -&nbsp;<em>Dr. Dale T. Umetsu</em><br /><br />Frontiers: DC and Innate Immunity -&nbsp;<em>Dr. Nir Harcohen</em></td>
+</tr>
+<tr class="alt-row">
+<td>Multiple Sclerosis -&nbsp;<em>Dr. David Hafler</em><br /><br />Frontiers: Autoimmune TCRs -&nbsp;<em>Dr. Kai Wucherpfennig</em></td>
+</tr>
+<tr class="row">
+<td>Paper Discussion 3</td>
+</tr>
+<tr class="alt-row">
+<td>Leukemias and Lymphomas -&nbsp;<em>Dr. Jon C. Aster</em><br /><br />CD1 and Lipid Antigens -&nbsp;<em>Dr. Richard S. Blumberg</em></td>
+</tr>
+<tr class="row">
+<td>Tutorial Session VI<br /><br />Transplantation Immunology -&nbsp;<em>Dr. Hugh Auchincloss</em></td>
+</tr>
+<tr class="alt-row">
+<td>Immunology of HIV/AIDS -&nbsp;<em>Dr. Bruce Walker</em><br /><br />Frontiers: Genetic Instability and Cancer -&nbsp;<em>Dr. Frederick W. Alt</em></td>
+</tr>
+<tr class="row">
+<td>Regulatory T Cells -&nbsp;<em>Dr. Diane Mathis</em><br /><br />Bone Marrow Transplant -&nbsp;<em>Dr. Megan Sykes</em></td>
+</tr>
+<tr class="alt-row">
+<td>Tutorial Session VII<br /><br />Tumor Immunology -&nbsp;<em>Dr. Andrew Lichtman</em>&nbsp;(<a href="1/tumor_immune.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Paper Discussion 4</td>
+</tr>
+<tr class="alt-row">
+<td>Regulating Humoral Autoimmunity -&nbsp;<em>Dr. Shiv Pillai</em><br /><br />Inflammatory Bowel Disease -&nbsp;<em>Dr. Ramnik Xavier</em></td>
+</tr>
+<tr class="row">
+<td>Immunodeficiency Disorders -&nbsp;<em>Dr. Francisco Bonilla</em></td>
+</tr>
+<tr class="alt-row">
+<td>RA and Lupus -&nbsp;<em>Dr. Paul Anderson</em></td>
+</tr>
+<tr class="row">
+<td>Genetic Susceptibility to Disease -&nbsp;<em>Dr. Shiv Pillai</em>&nbsp;(<a href="1/gen_sus_infect.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final Exam</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth3" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Overview</td>
+<td>Lecture Notes (<a href="1/overviewimmune.pdf">PDF</a>)<br /><br />Handout (<a href="1/handoutlecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cells of Immune System and Innate Immunity</td>
+<td>Lecture Notes (<a href="1/cellsofimmune.pdf">PDF</a>)<br /><br />Handout (<a href="1/handoutlecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Antibodies<br /><br />Antibody-dependent Protection Mechanisms</td>
+<td>Lecture Notes (<a href="1/antibodies.pdf">PDF</a>) and (<a href="1/cellbiology.pdf">PDF</a>)<br /><br />Handouts (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/hdt_ant_bodi_gen.pdf">PDF 1</a>) and (<a href="1/hdt_anti_dep.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Antigen Receptors and Development of Diversity<br /><br />T Lymphocyte Development</td>
+<td>Handout (for Antigen Receptors) (<a href="1/hdt_anti_recep.pdf">PDF</a>)<br /><br />Handout (for T Lymphocyte Development) (<a href="1/hdt_lymph.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>B Lymphocyte Dev and Activation</td>
+<td>Handout (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/hdt_b_lympho.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cell-mediated Immunity</td>
+<td>Handout (<a href="1/hdt_cell_med.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lymphocyte Homing</td>
+<td>Lecture Notes (<a href="1/lymphocytehoming.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>MHC/Antigen Presentation</td>
+<td>Lecture Notes (<a href="1/antigen.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>A Bloody Glove - Tutorial<br /><br />Lymphocyte Activation, Cytokines, Costim</td>
+<td>Handout (<a href="1/hdt_lymph_act.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transplantation Immunology<br /><br />Presentations 7 and 8: Chronic Granulomatous/MS</td>
+<td>Lecture Notes (<a href="1/transplantimmun.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Immunology of HIV Disease</td>
+<td>Lecture Notes (<a href="1/immuneaids.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Costimulation<br /><br />Presentation 9: Lymphoprolif Syndrome</td>
+<td>Lecture Notes (<a href="1/reviewcostimulat.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Memory and Death in Immune System<br /><br />IgE System and Immediate Type Hypersens</td>
+<td>Lecture Notes (<a href="1/memorydeath.pdf">PDF</a>)<br /><br />Handout (<a href="1/apoptosis.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Tumor Immunity</td>
+<td>Handout (<a href="1/tumor.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Immunodeficiency Syndromes/Review</td>
+<td>Lecture Notes (<a href="1/immunodeficiency.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
