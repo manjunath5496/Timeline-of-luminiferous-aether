@@ -9,7 +9,7 @@
 <li><a href="#course8">Projects in Microscale Engineering for the Life Sciences</a></li>
 <li><a href="#course9">Survival Skills for Researchers: The Responsible Conduct of Research</a></li>
 <li><a href="#course10">Quantitative Genomics</a></li>
-<li><a href="#course11">Microscopic Theory of Transport</a></li>
+<li><a href="#course11">Genomics, Computing, Economics, and Society</a></li>
 <li><a href="#course12">Electromagnetic Interactions</a></li>
 <li><a href="#course13">Neutron Interactions and Applications</a></li>
 <li><a href="#course14">Materials in Nuclear Engineering</a></li>
@@ -1156,3 +1156,47 @@
 </tbody>
 </table>
 </br>
+<h2 id="course11">Genomics, Computing, Economics, and Society</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Class Organization</td>
+<td>
+<p><span class="nobr">(<a href="1/05a_sep20.pdf">PDF 1</a>)</span></p>
+<p><span class="nobr">(<a href="1/05b_sep22.pdf">PDF 2</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Choose Projects</p>
+<p>Exercise - A Quantitative Definition of Life</p>
+</td>
+<td>(<a href="1/05c_sep27.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>New Energy Sources and Personalized Medicine</td>
+<td>(<a href="1/05d_oct4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Biosphere Facts</td>
+<td>
+<p><span class="nobr">(<a href="1/05e_oct11.pdf">PDF 1</a>)</span></p>
+<p><span class="nobr">(<a href="1/05f_oct13.pdf">PDF 2</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Metabolic Networks and Learning Perl</td>
+<td>(<a href="1/05g_oct27.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
