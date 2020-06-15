@@ -14,7 +14,7 @@
 <li><a href="#course13">Principles and Practice of Tissue Engineering</a></li>
 <li><a href="#course14">Health Information Systems to Improve Quality of Care in Resource-Poor Settings</a></li>
 <li><a href="#course15">Computing for Biomedical Scientists</a></li>
-<li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
+<li><a href="#course16">Medical Computing</a></li>
 <li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
 <li><a href="#course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
 <li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
@@ -1692,3 +1692,96 @@
 </tbody>
 </table>
 </br>
+<h2 id="course16">Medical Computing</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: Nature of Modern Medicine and Medical Practice (<a href="3/lecture1.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Nature of Medical Data: Where it is and Where it is Not (<a href="3/lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Genomics in Medicine: Centrality of Bioinformatics</td>
+</tr>
+<tr class="alt-row">
+<td>Patient Identification (<a href="3/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Countering Bioterrorism (<a href="3/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Workflow, Decision Support and Data Gathering</td>
+</tr>
+<tr class="row">
+<td>Computing Support for the Enterprise</td>
+</tr>
+<tr class="alt-row">
+<td>Diagnosis, Standards, Codification (<a href="3/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Patient Data Confidentiality and Security (<a href="3/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Decreasing Variability in Health Care (<a href="3/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Computerized Physician Order Entry: Using Technology To Improve Patient Safety&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Integration and Data Sharing or Medical Data for Quality Improvement</td>
+</tr>
+<tr class="row">
+<td>Telemedicine</td>
+</tr>
+<tr class="alt-row">
+<td>Genomic Medicine I: Population Genetics in the Post Genomic Era (<a href="3/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Genomic Medicine II: Expression Arrays, Gene Clustering and Distance Metrics</td>
+</tr>
+<tr class="alt-row">
+<td>Decision Analysis and Decision Support</td>
+</tr>
+<tr class="row">
+<td>Getting to Causality in Functional Genomics</td>
+</tr>
+<tr class="alt-row">
+<td>Advanced Expert Systems (<a href="3/lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Patient Monitoring (<a href="3/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Genomic Medicine III: Introduction to Genomics</td>
+</tr>
+<tr class="row">
+<td>Genomic Medicine IV: Linking Genotypes and Phenotypes (<a href="3/lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Genomic Medicine V: Reverse Engineering (<a href="3/lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Student Presentations</td>
+</tr>
+<tr class="alt-row">
+<td>Student Presentations</td>
+</tr>
+<tr class="row">
+<td>Student Presentations</td>
+</tr>
+<tr class="alt-row">
+<td>Student Presentations</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
