@@ -11,7 +11,7 @@
 <li><a href="#course10">Quantitative Genomics</a></li>
 <li><a href="#course11">Genomics, Computing, Economics, and Society</a></li>
 <li><a href="#course12">Tumor Pathophysiology and Transport Phenomena</a></li>
-<li><a href="#course13">Neutron Interactions and Applications</a></li>
+<li><a href="#course13">Principles and Practice of Tissue Engineering</a></li>
 <li><a href="#course14">Materials in Nuclear Engineering</a></li>
 <li><a href="#course15">Engineering of Nuclear Reactors</a></li>
 <li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
@@ -1252,7 +1252,172 @@
 </table>
 </br>
 
+<h2 id="course13">Principles and Practice of Tissue Engineering</h2>
 
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl234id0_1" scope="col">TOPICS</th>
+<th id="tbl234id0_2" scope="col">LECTURERS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3" headers="tbl234id0_0"><strong>Part I. Principles of Tissue Engineering: Scaffolds and Cells</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl234id0_1">
+<p>Course Overview/Clinical Problems for Tissue Engineering Solution</p>
+<p>Introduction to Tissue Engineering in China (<a href="1/s0_te_china.pdf">PDF</a>)</p>
+<p>Scaffolds: Introduction (<a href="1/s1a_intro.pdf">PDF</a>)</p>
+<p>Scaffolds: Collagen-GAG Analogs of Extracellular Matrix (<a href="1/s1c_ecm.pdf">PDF</a>) (Courtesy of Prof. Yannas. Used with permission.)</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Prof. Spector, MIT / Prof. Cui, Tsinghua University</p>
+<p>Prof. Cui, Tsinghua University</p>
+<p>Prof. Spector, MIT</p>
+<p>Prof. Yannas, MIT</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl234id0_1">
+<p>Cells: Liver Cells (<a href="1/s2c_feng_xu.pdf">PDF</a>) (Courtesy of Yingxin Xu and Qingling Feng. Used with permission.)</p>
+<p>Scaffolds: Recent Advances in Tissue Engineering</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Yingxin Xu, M. D., and Qingling Feng Ph. D., Tsinghua University</p>
+<p>Prof. Langer, MIT</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl234id0_1">
+<p>Scaffolds: Free-Form Manufacturing&nbsp;<span class="nobr">(<a href="1/s1d_ffm1.pdf">PDF 1 of 2 - 2.6 MB</a>)</span><span class="nobr">(<a href="1/s1d_ffm2.pdf">PDF 2 of 2 - 1.8 MB</a>)</span>&nbsp;(Courtesy of Prof. Yongnian Yan. Used with permission.)</p>
+<p>Scaffolds: Self-Assembled Proteins (<a href="1/s1e_zhang.pdf">PDF - 1.2 MB</a>) (Courtesy of Dr. Shuguang Zhang. Used with permission.)</p>
+<p>Review (<a href="1/s1disc_scaffolds.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Prof. Yan, Tsinghua University</p>
+<p>Dr. S. Zhang, MIT</p>
+<p>Prof. Spector, MIT</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl234id0_1">
+<p>Cells: Sources</p>
+<p>Cells: Differentiated versus Stem Cells (<a href="1/s2b_stemcells.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Dr. C. Vacanti, MIT</p>
+<p>Prof. Spector, MIT</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3" headers="tbl234id0_0"><strong>Part II. Principles of Tissue Engineering: Cells and Regulators</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl234id0_1">
+<p>Scaffolds: Biomimetics Design (<a href="1/s1f_biomimetics.pdf">PDF</a>)</p>
+<p>Cells: Effects of Culture Conditions (<a href="1/s2d_freed.pdf">PDF</a>) (Courtesy of Dr. Lisa Freed. Used with permission.)</p>
+<p>Review (<a href="1/s2b_spector.pdf">PDF - 1.4 MB</a>)</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Prof. Cui, Tsinghua University</p>
+<p>Dr. L. Freed, MIT</p>
+<p>Prof. Spector, MIT</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl234id0_1">Quiz 1</td>
+<td headers="tbl234id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl234id0_1">
+<p>Regulators: Response to Mechanical Loading</p>
+<p>Regulators: Roles of Environmental Factors</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Prof. Grodzinsky, MIT</p>
+<p>Dr. Vunjak-Novakovic, MIT</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl234id0_1">
+<p>Cells: Embryonic and Other Stem Cell for Tissue Engineering</p>
+<p>Gene Therapy</p>
+<p>Regulators: Gene Transfer Wedded to Tissue Engineering (<a href="1/s3d_gene_xfer.pdf">PDF</a>) (Courtesy of Prof. Chris Evans. Used with permission.)</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Prof. Guo, Tsinghua University</p>
+<p>Dr. Zhijie Chang, Tsinghua University</p>
+<p>Prof. C. Evans, Harvard Medical School</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="3" headers="tbl234id0_0"><strong>Part III. Practice of Tissue Engineering: Clinical Applications</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl234id0_1">
+<p>Applications: Skin and Peripheral Nerve Regeneration&nbsp;<span class="nobr">(<a href="1/s4a_organ_regen.pdf">PDF - 1.0MB</a>)</span>&nbsp;(Courtesy of Prof. Yannas. Used with permission.)</p>
+<p>Nerve Repair&nbsp;<span class="nobr">(<a href="1/s4b_nerve_rep.pdf">PDF - 1.3MB</a>)</span>&nbsp;(Courtesy of Xiufang Zhang, Nanming Zhao, and Yandao Gong. Used with permission.)</p>
+<p>Discussion: Clinical Applications (<a href="1/s4disc_clinical.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Prof. Yannas, MIT</p>
+<p>Xiufang Zhang, Nanming Zhao, Yandao Gong, Tsinghua University</p>
+<p>Prof. Spector, MIT</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl234id0_1">
+<p>Blood Vessels</p>
+<p>Heart Valves</p>
+<p>Discussion: Comparative Analysis of Tissue Engineering Strategies (<a href="1/s4disc_te_strt.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Prof. Schoen, Harvard Medical School</p>
+<p>Dr. W. B. Li, Tsinghua University</p>
+<p>Prof. Spector, MIT</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl234id0_1">
+<p>Urinary Tissues/Organs</p>
+<p>Clinical Applications and Underlying Principles</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Prof. Atala, MIT</p>
+<p>Prof. Y. Cao, Tsinghua University</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl234id0_1">
+<p>Bone Regeneration (<a href="1/s4g_bone_yuxing.pdf">PDF</a>) (Courtesy of Yu Xing M. D., Ph. D. Used with permission.)</p>
+<p>Cartilage Repair&nbsp;<span class="nobr">(<a href="1/s4h_cartilage.pdf">PDF - 1.0MB</a>)</span></p>
+<p>Discussion: Review (<a href="1/s4disc_review.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Dr. Yu Xing, Tsinghua University, and Prof. Yan Wang, M. D., General Hospital of Peoples' Liberation Army</p>
+<p>Prof. Spector, MIT</p>
+<p>Prof. Spector, MIT</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl234id0_1">
+<p>Federal Regulatory Issues for Tissue Engineering Products in the U.S., China, and Other Countries (<a href="1/s4i_fda.pdf">PDF</a>)</p>
+<p>Brain Repair</p>
+<p>Review</p>
+</td>
+<td headers="tbl234id0_2">
+<p>Prof. Spector, MIT</p>
+<p>Prof.&nbsp;Cui, Tsinghua University</p>
+<p>Prof. Spector, MIT / Prof. Cui, Tsinghua University</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl234id0_1">Quiz 2</td>
+<td headers="tbl234id0_2">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
-
-
+</br>
