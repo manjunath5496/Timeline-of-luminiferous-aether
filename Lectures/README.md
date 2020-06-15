@@ -21,7 +21,7 @@
 <li><a href="#course20">Neural Coding and Perception of Sound</a></li>
 <li><a href="#course21">Medical Artificial Intelligence</a></li>
 <li><a href="#course22">Designing and Sustaining Technology Innovation for Global Health Practice</a></li>
-<li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
+<li><a href="#course23">Molecular Biology for the Auditory System</a></li>
 <li><a href="#course24">Introduction to Plasma Physics I</a></li>
 <li><a href="#course25">MHD Theory of Fusion Systems</a></li>
 <li><a href="#course26">Plasma Transport Theory</a></li>
@@ -2353,6 +2353,92 @@
 <td>Final projects and presentations</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course23">Molecular Biology for the Auditory System</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Basic Molecular Biology (part 1) (<a href="4/new_intro_molec_biol_lect_1.pdf">PDF - 2.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Basic Molecular Biology (part 2) (<a href="4/new_intro_molec_biol_lect_2.pdf">PDF - 2.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Molecular Biology Techniques and Lab Intro (<a href="4/new_lab_introsept25_sh.pdf">PDF - 1.8 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lab</td>
+</tr>
+<tr class="row">
+<td>Genetics and Genomics (<a href="4/new_genetics_genomics.pdf">PDF - 3.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lab</td>
+</tr>
+<tr class="row">
+<td>Neurotransmitters, Cell Signaling, and Cochlear Physiology</td>
+</tr>
+<tr class="alt-row">
+<td>Inner Ear Development (<a href="4/new_development_oct_16_sh.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Overview of Genetic Hearing Loss (<a href="4/new_genetic_hearing_loss.pdf">PDF - 2.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Clinical Audiology Issues</td>
+</tr>
+<tr class="row">
+<td>Connexins and Clinical Testing</td>
+</tr>
+<tr class="alt-row">
+<td>Student Discussion Session 1: Development</td>
+</tr>
+<tr class="row">
+<td>Prestin - The Molecular Motor of Outer Hair Cells</td>
+</tr>
+<tr class="alt-row">
+<td>Transcription Factors</td>
+</tr>
+<tr class="row">
+<td>Student Discussion Session 2: Genetic Hearing Loss</td>
+</tr>
+<tr class="alt-row">
+<td>Student Discussion Session 3: Connexins</td>
+</tr>
+<tr class="row">
+<td>Myosins (<a href="4/new_myosinlecture_ag.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>In situ Lab Weekend</td>
+</tr>
+<tr class="row">
+<td>Student Discussion Session 4: Transcription Factors</td>
+</tr>
+<tr class="alt-row">
+<td>Student Discussion Session 5: Myosins</td>
+</tr>
+<tr class="row">
+<td>Hair Cell Regeneration</td>
+</tr>
+<tr class="alt-row">
+<td>Embryonic Stem Cells (<a href="4/new_stem_cells_dec9sh.pdf">PDF - 3.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Student Discussion Session 6: Hair Cell Regeneration</td>
+</tr>
+<tr class="alt-row">
+<td>Student Presentations of Lab Work</td>
+</tr>
+<tr class="row">
+<td>Exam</td>
 </tr>
 </tbody>
 </table>
