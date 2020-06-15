@@ -16,7 +16,7 @@
 <li><a href="#course15">Computing for Biomedical Scientists</a></li>
 <li><a href="#course16">Medical Computing</a></li>
 <li><a href="#course17">Biomedical Signal and Image Processing</a></li>
-<li><a href="#course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
+<li><a href="#course18">Biomedical Engineering Seminar Series: Developing Professional Skills</a></li>
 <li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
 <li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
@@ -1951,4 +1951,53 @@
 </table>
 </br>
 
-
+<h2 id="course18">Biomedical Engineering Seminar Series: Developing Professional Skills</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURERS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Kick-off with an Introductory Workshop on CVs (<a href="3/ses01.pdf">PDF</a>)</td>
+<td>Prof. Mya Poe</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>You Applied for that Dream Job, and You got an Interview. Good Job! Now What? (<a href="3/ses02.pdf">PDF</a>)</p>
+</td>
+<td>Dr. Frederick Schoen</td>
+</tr>
+<tr class="row">
+<td>And Then, You Have to Give a Job Talk</td>
+<td>Dr. Collin Stultz</td>
+</tr>
+<tr class="alt-row">
+<td>Your Job Talk Went Well BUT that's Not the End of Your On-campus Interview!</td>
+<td>Dr. Richard Mitchell</td>
+</tr>
+<tr class="row">
+<td>Congratulations! You've Got the Job of Your Dreams-The Swanky Office, the Sweet Lab, the Dutiful Graduate Students. Now, You Have to Bring in the Grant Money to Support it All (<a href="3/ses05.pdf">PDF</a>) (Courtesy of Elfar Adalsteinsson. Used with permission.)</td>
+<td>Prof. Mya Poe</td>
+</tr>
+<tr class="alt-row">
+<td>Enough Of Academia! I'm Going to Industry!</td>
+<td>Dr. Michael Zwell</td>
+</tr>
+<tr class="row">
+<td>The Day My Grant Got Rejected . . . . (<a href="3/ses07.pdf">PDF</a>) (Courtesy of Deborah Ann McClellan. Used with permission.)</td>
+<td>Dr. Jagesh Shah</td>
+</tr>
+<tr class="alt-row">
+<td>Regardless of Whether You Choose a Career in Academia, in Industry, or in Clinical Practice, You Will Have to Deliver Bad News, Admit Error in Politically Sensitive Situations, And Deal With Difficult Personalities</td>
+<td>Dr. T. (Teo) Forcht Dagi</td>
+</tr>
+<tr class="row">
+<td>"Why Your Work is Important!"</td>
+<td>Dr. Jonathan Rosen</td>
+</tr>
+</tbody>
+</table>
+</br>
