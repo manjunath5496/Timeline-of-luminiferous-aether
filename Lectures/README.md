@@ -4,7 +4,7 @@
 <li><a href="#course3">Human Reproductive Biology</a></li>
 <li><a href="#course4">Gastroenterology</a></li>
 <li><a href="#course5">Introduction to Neuroscience</a></li>
-<li><a href="#course6">Principles of Medical Imaging</a></li>
+<li><a href="#course6">Principles of Pharmacology</a></li>
 <li><a href="#course7">Engineering of Nuclear Systems</a></li>
 <li><a href="#course8">Introduction to Sustainable Energy</a></li>
 <li><a href="#course9">Nuclear Reactor Safety</a></li>
@@ -512,4 +512,223 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course6">Principles of Pharmacology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr style="height: 13px;">
+<th id="tbl224id0_1" style="height: 13px;" scope="col">TOPICS</th>
+<th id="tbl224id0_2" style="height: 13px;" scope="col">INSTRUCTORS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 59px;">
+<td style="height: 59px;" headers="tbl224id0_1">
+<p>Introduction (<a href="0201_1_rosow.pdf">PDF</a>)</p>
+<p>Receptors / Dose-Response</p>
+</td>
+<td style="height: 59px;" headers="tbl224id0_2">
+<p>Dr. Carl Rosow</p>
+<p>Prof. Gary Strichartz</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 59px;">
+<td style="height: 59px;" headers="tbl224id0_1">
+<p>Pharmacokinetics I (<a href="ln34hms3275.pdf">PDF</a>)</p>
+<p>Pharmacokinetics II (<a href="ln34hms3275.pdf">PDF</a>)</p>
+</td>
+<td style="height: 59px;" headers="tbl224id0_2">
+<p>Prof. Carol Walsh</p>
+<p>Prof. Carol Walsh</p>
+</td>
+</tr>
+<tr class="row" style="height: 83px;">
+<td style="height: 83px;" headers="tbl224id0_1">
+<p>Interpreting Clinical Literature</p>
+<p>Cholinergic Pharmacology</p>
+<p>Case: Anticholinesterase (<a href="0203_case_exampl.pdf">PDF</a>)</p>
+</td>
+<td style="height: 83px;" headers="tbl224id0_2">
+<p>Harold Demonaco</p>
+<p>Prof. Gary Strichartz</p>
+<p>Course Faculty</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 83px;">
+<td style="height: 83px;" headers="tbl224id0_1">
+<p>Drug Metabolism</p>
+<p>Pharmacogenetics</p>
+<p>Cases: Anticoagulation, Sulfasalazine</p>
+</td>
+<td style="height: 83px;" headers="tbl224id0_2">
+<p>Dr. Mark Dershwitz</p>
+<p>Dr. Mark Dershwitz</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="row" style="height: 59px;">
+<td style="height: 59px;" headers="tbl224id0_1">
+<p>Autonomic Pharmacology I and II&nbsp;(<a href="ln1112hms5008.pdf">PDF</a>)</p>
+<p>Cases: Pheochromocytoma, Asthma</p>
+</td>
+<td style="height: 59px;" headers="tbl224id0_2">
+<p>Dr. Carl Rosow</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 83px;">
+<td style="height: 83px;" headers="tbl224id0_1">
+<p>Local Anesthetics</p>
+<p>Antidysrhythmics (<a href="ln1112hms5008.pdf">PDF</a>)</p>
+<p>Cases: Poison Control, Cocaine</p>
+</td>
+<td style="height: 83px;" headers="tbl224id0_2">
+<p>Prof. Gary Strichartz</p>
+<p>Dr. Jeremy Ruskin</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="row" style="height: 83px;">
+<td style="height: 83px;" headers="tbl224id0_1">
+<p>Pharmacokinetics III</p>
+<p>Antiinflammatory Drugs (<a href="0215_2_weinblatt.pdf">PDF</a>)</p>
+<p>Case:&nbsp;Glaucoma</p>
+</td>
+<td style="height: 83px;" headers="tbl224id0_2">
+<p>Prof. Robert Langer</p>
+<p>Dr. Michael Weinblatt</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 83px;">
+<td style="height: 83px;" headers="tbl224id0_1">
+<p>Vasoactive Drugs I (<a href="0216_1_baker.pdf">PDF</a>)</p>
+<p>Vasoactive Drugs II: Heart Failure (<a href="0216_2_baker.pdf">PDF</a>)</p>
+<p>Cases: Pharmacogenetics, Thyroid Disease</p>
+</td>
+<td style="height: 83px;" headers="tbl224id0_2">
+<p>Prof. Keith Baker</p>
+<p>Prof. Keith Baker</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="row" style="height: 59px;">
+<td style="height: 59px;" headers="tbl224id0_1">
+<p>Lipid Lowering Drugs (<a href="0217_1_lees.pdf">PDF</a>)</p>
+<p>Cases: Placental Transfer, Gout</p>
+</td>
+<td style="height: 59px;" headers="tbl224id0_2">
+<p>Dr. Robert Lees</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 83px;">
+<td style="height: 83px;" headers="tbl224id0_1">
+<p>Antihistamines</p>
+<p>Immunosuppression for Solid Organ Transplantation (<a href="0222_2_spitzer.pdf">PDF</a>)</p>
+<p>Cases: Antiemetics, Geriatric Pharmacology</p>
+</td>
+<td style="height: 83px;" headers="tbl224id0_2">
+<p>Dr. Mark Dershwitz</p>
+<p>Prof. Thomas Spitzer</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="tbl224id0_1">Drug Development</td>
+<td style="height: 13px;" headers="tbl224id0_2">Dr. Daniel Kohane</td>
+</tr>
+<tr class="alt-row" style="height: 83px;">
+<td style="height: 83px;" headers="tbl224id0_1">
+<p>Neuropharmacology I: Drugs for Movement Disorders (<a href="parkinson.pdf">PDF</a>)</p>
+<p>Nitric Oxide (<a href="ln15ahms2066.pdf">PDF</a>)</p>
+<p>Cases: Placebo, Renal Failure</p>
+</td>
+<td style="height: 83px;" headers="tbl224id0_2">
+<p>Dr. David Standaert</p>
+<p>Dr. Warren Zapol</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="row" style="height: 83px;">
+<td style="height: 83px;" headers="tbl224id0_1">
+<p>Neuropharmacology II: Anxiolytics and Antidepressants (<a href="antidepresedtive.pdf">PDF</a>)</p>
+<p>Neuropharmacology III: Anticonvulsants (<a href="anticonvulsants.pdf">PDF</a>)</p>
+<p>Cases: Lithium, Alcohol</p>
+</td>
+<td style="height: 83px;" headers="tbl224id0_2">
+<p>Dr. David Standaert</p>
+<p>Dr. David Standaert</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 59px;">
+<td style="height: 59px;" headers="tbl224id0_1">
+<p>Antimicrobials I and II (<a href="ln2425_antimic.pdf">PDF</a>)</p>
+<p>Cases: Drug Allergy, Migraines</p>
+</td>
+<td style="height: 59px;" headers="tbl224id0_2">
+<p>Dr. Robert Rubin</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="row" style="height: 59px;">
+<td style="height: 59px;" headers="tbl224id0_1">
+<p>Chemotherapy I and II (<a href="ln2627hms5885.pdf">PDF</a>)</p>
+<p>Cases: Folate, Oral Hypoglycemics</p>
+</td>
+<td style="height: 59px;" headers="tbl224id0_2">
+<p>Dr. Donald Kufe</p>
+<p>Students</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 59px;">
+<td style="height: 59px;" headers="tbl224id0_1">
+<p>Opioids I and II (<a href="ln2829ahms7471.pdf">PDF</a>)</p>
+<p>Cases: Cancer - Analgesia, Drug Abuse</p>
+</td>
+<td style="height: 59px;" headers="tbl224id0_2">
+<p>Dr. Carl Rosow</p>
+<p>Students</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<h2 class="subhead">Problem Set</h2>
+<p>Problem Set (<a href="ps2005.pdf">PDF</a>)</p>
+<p>Solution (<a href="ps2005_soln.pdf">PDF</a>)</p>
+</br>
+<p>Detailed description of Case Topics (<a href="case_topic_desc.pdf">PDF</a>)</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="row">
+<th id="tbl259id0_0" scope="col">TOPICS</th>
+<th id="tbl259id0_1" scope="col">STUDENTS</th>
+<th id="tbl259id0_2" scope="col">NOTES</th>
+<th id="tbl259id0_3" scope="col">SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl259id0_0">Sulfasalazine</td>
+<td headers="tbl259id0_1">Paul Dieffenbach and Ali Shoeb</td>
+<td headers="tbl259id0_2">(<a href="0208_sulfa_notes.pdf">PDF</a>)</td>
+<td headers="tbl259id0_3">(<a href="0208_sulfa_slide.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl259id0_0">Oral Hypoglycemics</td>
+<td headers="tbl259id0_1">Lynn Punnoose and Erika Wagner</td>
+<td headers="tbl259id0_2">(<a href="0310_oral_notes.pdf">PDF</a>)</td>
+<td headers="tbl259id0_3">(<a href="0310_oral_slides.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+<p>Midterm Exam (<a href="2005_midterm.pdf">PDF</a>)</p>
+<p>Final Exam (<a href="2005_final.pdf">PDF</a>)</p>
 </br>
