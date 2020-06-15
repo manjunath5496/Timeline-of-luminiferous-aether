@@ -3164,3 +3164,7 @@
 </table>
 </br>
 
+<p>Midterm Quiz (<a href="5/quiz.pdf">PDF</a>)</p>
+<p>Solutions (<a href="5/quiz_solutions.pdf">PDF</a>)</p>
+</br>
+
