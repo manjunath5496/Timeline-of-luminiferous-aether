@@ -18,7 +18,7 @@
 <li><a href="#course17">Biomedical Signal and Image Processing</a></li>
 <li><a href="#course18">Biomedical Engineering Seminar Series: Developing Professional Skills</a></li>
 <li><a href="#course19">Brain Mechanisms for Hearing and Speech</a></li>
-<li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
+<li><a href="#course20">Neural Coding and Perception of Sound</a></li>
 <li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
 <li><a href="#course22">Principles of Radiation Interactions</a></li>
 <li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
@@ -2054,5 +2054,187 @@
 </tbody>
 </table>
 </br>
+<h2 id="course20">Neural Coding and Perception of Sound</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl772id0_1" scope="col">TOPICS</th>
+<th id="tbl772id0_2" scope="col">LECTURER</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl772id0_1">
+<p><em>Hearing and the Auditory System: An Overview</em>&nbsp;(<a href="3/auditorysysovr.pdf">PDF</a>)</p>
+<p>Stages of processing in the auditory system and their function. Detection, localization and recognition of sounds. Subjective and objective variables and experiments. Auditory demonstrations.</p>
+</td>
+<td headers="tbl772id0_2">BD/AJO</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="tbl772id0_0"><strong>Theme 1: Masking and Frequency Selectivity</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl772id0_1">
+<p><em>How the Ear Works (Functional Cochlear Mechanics)</em>&nbsp;(<a href="3/t1_cochlearmechs.pdf">PDF - 1.4 MB</a>)</p>
+<p>Cochlear tuning. Hair cell transduction. Nonlinearities. The cochlear amplifier. Otoacoustic emissions.</p>
+</td>
+<td headers="tbl772id0_2">JJG</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl772id0_1">
+<p><em>Stimulus Coding in the Auditory Nerve</em>&nbsp;(<a href="3/t1_anstimcoding.pdf">PDF</a>)</p>
+<p>The AN as an information conduit. Frequency tuning. Nonlinearities. Relation of AN activity to cochlear processing. Neural variability as a limit on psychophysical performance. Compound action potential.</p>
+</td>
+<td headers="tbl772id0_2">BD</td>
+</tr>
+<tr class="row">
+<td headers="tbl772id0_1">
+<p><em>Masking and Frequency Selectivity</em>&nbsp;(<a href="3/t1_masking.pdf">PDF</a>)</p>
+<p>Psychophysical techniques. Signal detection theory. Power spectrum model of masking. Techniques for measuring auditory filters. Psychophysical effects of cochlear nonlinearities.</p>
+</td>
+<td headers="tbl772id0_2">AJO</td>
+</tr>
+<tr class="alt-row">
+<td>Masking and Nonlinearity</td>
+<td>JJG/Staff</td>
+</tr>
+<tr class="row">
+<td>Masking and Nonlinearity (cont.)</td>
+<td>JJG/Staff</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl772id0_1">
+<p><em>Cochlear Implants</em></p>
+<p>Electrodes and processors. Basic auditory capabilities of implantees. Effect of electrode configuration. Processor design. Bilateral implants.</p>
+</td>
+<td headers="tbl772id0_2">DKE</td>
+</tr>
+<tr class="row">
+<td headers="tbl772id0_1">
+<p><em>Intensity Perception and Cochlear Hearing Loss</em>&nbsp;(<a href="3/t1_loudness.pdf">PDF</a>)</p>
+<p>Loudness. Stevens' law. Intensity discrimination. Weber's law and its near miss. Relation of loudness to intensity. Consequences of reduced frequency selectivity and loss of cochlear amplifier in cochlear hearing impairment.</p>
+</td>
+<td headers="tbl772id0_2">AJO</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Theme 2: Cellular Mechanisms in the Cochlear Nucleus</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p><em>Channels, Synapses and Neurotransmitters</em>&nbsp;(<a href="3/t2_neuronssynaps.pdf">PDF</a>)</p>
+<p>Excitatory and inhibitory synaptic transmission. Neurotransmitters and receptors. Second messengers.</p>
+</td>
+<td>JJG</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Cellular Mechanisms in the Cochlear Nucleus</em></p>
+<p>Parallel processing pathways in the cochlear nucleus. Correlation of cell types with response types. Neural specializations for temporal processing.</p>
+</td>
+<td>MCB</td>
+</tr>
+<tr class="row">
+<td>Cellular Mechanisms in the Cochlear Nucleus (cont.)</td>
+<td>MCB</td>
+</tr>
+<tr class="alt-row">
+<td>Cellular Mechanisms in the Cochlear Nucleus (cont.)</td>
+<td>MCB/Staff</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Theme 3: Binaural Interactions</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Binaural Hearing</em>&nbsp;(<a href="3/t3_binaural.pdf">PDF</a>)</p>
+<p>Localization and lateralization. Cues for sound localization. Sensitivity to binaural cues. The Jeffress model. The precedence effect. Binaural detection.</p>
+</td>
+<td>AJO</td>
+</tr>
+<tr class="row">
+<td>
+<p><em>Binaural Interactions in the Auditory Brainstem</em>&nbsp;(<a href="3/t3_binaurlintrct.pdf">PDF</a>)</p>
+<p>Neural circuitry and cellular specializations for binaural processing. Two basic forms of binaural interactions. Transformations of binaural information in the auditory pathway.</p>
+</td>
+<td>BD</td>
+</tr>
+<tr class="alt-row">
+<td>Binaural Interactions</td>
+<td>BD/Staff</td>
+</tr>
+<tr class="row">
+<td>Binaural Interactions (cont.)</td>
+<td>BD/Staff</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Theme 4: Pitch and Temporal Coding</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p><em>Pitch of Pure and Complex Tones</em>&nbsp;(<a href="3/t4_pitch.pdf">PDF</a>)</p>
+<p>Pitch of pure and complex tones. Virtual pitch. Place and temporal models of pitch. Role of pitch in auditory scene analysis.</p>
+</td>
+<td>AJO</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Neural Processing of Pitch</em>&nbsp;(<a href="3/t4_pitchcoding.pdf">PDF</a>)</p>
+<p>Rate and temporal codes. Temporal envelope and fine structure. Interspike interval representation of pitch. Tuning to modulation frequency and its possible role in pitch coding. Transformations of temporal information along the auditory pathway.</p>
+</td>
+<td>BD</td>
+</tr>
+<tr class="row">
+<td>Pitch and Temporal Coding</td>
+<td>AJO/Staff</td>
+</tr>
+<tr class="alt-row">
+<td>Pitch and Temporal Coding (cont.)</td>
+<td>AJO/Staff</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Theme 5: Neural Maps and Plasticity</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Auditory Cortex: Cortical organization</em></p>
+<p>Cortical areas and layers. Thalamo-cortical and cortico-cortical projections. Tonotopy. Columnar organization. Parallel and hierarchical processing. Functions of the cortex.</p>
+</td>
+<td>MCB</td>
+</tr>
+<tr class="row">
+<td>
+<p><em>The Human Auditory System</em></p>
+<p>Imaging modalities: fMRI, MEG, AEP. Tonotopy in human auditory cortex. What and where pathways. Tinnitus-related abnormalities in brain activation.</p>
+</td>
+<td>JRM</td>
+</tr>
+<tr class="alt-row">
+<td>Neural Maps and Plasticity</td>
+<td>JRM/Staff</td>
+</tr>
+<tr class="row">
+<td>Neural Maps and Plasticity (cont.)</td>
+<td>JRM/Staff</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Theme 6: Auditory Scene Analysis and Object Formation</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p><em>Auditory Scene Analysis (ASA)&nbsp;and Object Formation</em>&nbsp;<span class="nobr">(<a href="3/t6_asa.pdf">PDF - 1.0MB</a>)</span>&nbsp;(Courtesy of Dr. Christophe Micheyl. Used with permission.)</p>
+<p>Bottom-up ("primitive") and top-down ("schema based") mechanisms. Simultaneous processes in ASA: Harmonicity, Onset/offset asynchrony, Co-modulation. Sequential processes: Auditory streaming.</p>
+</td>
+<td>CM</td>
+</tr>
+<tr class="alt-row">
+<td>Scene Analysis</td>
+<td>AJO/JRM</td>
+</tr>
+<tr class="row">
+<td>Final Exam</td>
+<td>Staff</td>
+</tr>
+</tbody>
+</table>
+</br>
