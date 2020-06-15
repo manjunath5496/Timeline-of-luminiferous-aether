@@ -17,7 +17,7 @@
 <li><a href="#course16">Medical Computing</a></li>
 <li><a href="#course17">Biomedical Signal and Image Processing</a></li>
 <li><a href="#course18">Biomedical Engineering Seminar Series: Developing Professional Skills</a></li>
-<li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
+<li><a href="#course19">Brain Mechanisms for Hearing and Speech</a></li>
 <li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
 <li><a href="#course22">Principles of Radiation Interactions</a></li>
@@ -2001,3 +2001,58 @@
 </tbody>
 </table>
 </br>
+<h2 id="course19">Brain Mechanisms for Hearing and Speech</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl664id0_1" scope="col">TOPICS</th>
+<th id="tbl664id0_2" scope="col">LECTURERS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl664id0_1">Dorsal Cochlear Nucleus&nbsp;<span class="nobr">(<a href="3/1_dcn.pdf">PDF - 1.6 MB</a>)</span></td>
+<td headers="tbl664id0_2">Hancock</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl664id0_1">Descending Systems</td>
+<td headers="tbl664id0_2">Brown</td>
+</tr>
+<tr class="row">
+<td headers="tbl664id0_1">Cell Types and Circuits</td>
+<td headers="tbl664id0_2">Adams</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl664id0_1">Quantitative Methods&nbsp;<span class="nobr">(<a href="3/4_quantitative.pdf">PDF</a>)</span></td>
+<td headers="tbl664id0_2">Delgutte</td>
+</tr>
+<tr class="row">
+<td headers="tbl664id0_1">Thalamus and Cortex</td>
+<td headers="tbl664id0_2">Brown</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl664id0_1">Neuroimaging&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/7_melcher_handot.pdf">PDF</a>)</span></td>
+<td headers="tbl664id0_2">Melcher</td>
+</tr>
+<tr class="row">
+<td headers="tbl664id0_1">Speech Motor Control&nbsp;<span class="nobr">(<a href="3/6_mot_con_sp_per.pdf">PDF - 2.6 MB</a>)</span></td>
+<td headers="tbl664id0_2">Perkell</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl664id0_1">Motor Control</td>
+<td headers="tbl664id0_2">Guenther</td>
+</tr>
+<tr class="row">
+<td headers="tbl664id0_1">Cortical Language Processing</td>
+<td headers="tbl664id0_2">Caplan</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl664id0_1">Special Lecture</td>
+<td headers="tbl664id0_2">Guest Lecturer: Donata Oertel, Department of Physiology, University of Wisconsin, Madison</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
