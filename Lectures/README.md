@@ -3,7 +3,7 @@
 <li><a href="#course2">Principle and Practice of Human Pathology</a></li>
 <li><a href="#course3">Human Reproductive Biology</a></li>
 <li><a href="#course4">Gastroenterology</a></li>
-<li><a href="#course5">Neutron Science and Reactor Physics</a></li>
+<li><a href="#course5">Introduction to Neuroscience</a></li>
 <li><a href="#course6">Principles of Medical Imaging</a></li>
 <li><a href="#course7">Engineering of Nuclear Systems</a></li>
 <li><a href="#course8">Introduction to Sustainable Energy</a></li>
@@ -452,4 +452,64 @@
 <p>Physiology and Biochemistry of the Liver&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section17.pdf">PDF - 5.5 MB</a>)</span></p>
 <p>Diagnostic and Therapeutic Endoscopy (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section21.pdf">PDF</a>)</p>
 <p>Pathophysiological Consequences of Cirrhosis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section23.pdf">PDF</a>)</p>
+</br>
+<h2 id="course5">Introduction to Neuroscience</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">SUPPORTING FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="problem_set_1.pdf">PDF</a>)</td>
+<td>(<a href="an_problem_set_1.pdf">PDF</a>)</td>
+<td>IV.exe (<a href="IV.exe">EXE</a>) (Courtesy of Dr. David Corey. Used with permission.)<br />IV simulation for Lab View Run Time.<br />Must be in same folder as lvrt.dll.<br />For PCs.<br /><br />IVVG.exe (<a href="IVVG.exe">EXE</a>) (Courtesy of Dr. David Corey. Used with permission.)<br />IVVG.exe simulation for Lab View Run Time.<br />Must be in same folder as lvrt.dll.<br />For PCs.<br /><br />lvrt.dll (<a href="lvrt.dll">DLL</a>) (Courtesy of Dr. David Corey. Used with permission.)<br />Lab View Run Time simulation.<br />Must be in the same folder as IV.exe and IVVG.exe.<br />Must be named lvrt.dll.<br />For PCs.</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="problem_set_2.pdf">PDF</a>)</td>
+<td>(<a href="problem_set2_key.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="problem_set_3.pdf">PDF</a>)</td>
+<td>(<a href="problem_set3_key.pdf">PDF</a>)</td>
+<td>Problem set advice (<a href="todherr_adv_ps3.pdf">PDF</a>) (Courtesy of Todd Herrington. Used with permission.)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Exams with Solutions</h2>
+<p>Exam 1 (<a href="hms_8251_ex1_key.pdf">PDF</a>)</p>
+<p>Exam 3 (<a href="exam_3_key.pdf">PDF</a>)</p>
+<h2 class="subhead">Practice Exams</h2>
+<div class="maintabletemplate">
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Exam 1 2004 (<a href="2004_exam1.pdf">PDF</a>)</td>
+<td>(<a href="2004_exam1_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Exam 3 2004 (<a href="2004_exam3.pdf">PDF</a>)</td>
+<td>(<a href="2004_exam3_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exam 4 2004 (<a href="2004_exam4.pdf">PDF</a>)</td>
+<td>(<a href="2004_exam4_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Practice Neuroanatomy Exam (<a href="old_neuroan_exam.pdf">PDF&nbsp;‑&nbsp;1.3 MB</a>)</td>
+<td>(<a href="ansshtneuro_exam.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 </br>
