@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Musculoskeletal Pathophysiology</a></li>
 <li><a href="#course2">Principle and Practice of Human Pathology</a></li>
-<li><a href="#course3">Introduction to Applied Nuclear Physics</a></li>
+<li><a href="#course3">Human Reproductive Biology</a></li>
 <li><a href="#course4">Nuclear Systems Design Project</a></li>
 <li><a href="#course5">Neutron Science and Reactor Physics</a></li>
 <li><a href="#course6">Principles of Medical Imaging</a></li>
@@ -195,6 +195,99 @@
 </tr>
 <tr class="row">
 <td headers="col2">Final Exam</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course3">Human Reproductive Biology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TOPICS</th>
+<th>OUTLINES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to the Course (15 min.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Male Reproductive Anatomy (1 hr.) -&nbsp;<em>Dr. Abe Morgentaler</em><br /><br />Male System Physiology (1 hr.) -&nbsp;<em>Dr. Abe Morgentaler</em><br /><br />Clinical Pathological Conference: Male Reproductive System (30 min.) -&nbsp;<em>Dr. Abe Morgentaler</em></td>
+<td>(<a href="male_system.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Impotence (1 hr.) -&nbsp;<em>Dr. Abe Morgentaler</em><br /><br />Male Fertility, Temperature and the Testes (1 hr. 15 min.) -&nbsp;<em>Dr. Abe Morgentaler</em></td>
+<td>(<a href="temp_testis.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Female System Anatomy (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Endometriosis (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em>&nbsp;(<a href="endometriosis.pdf">PDF</a>)<br /><br />Clinical Pathological Conference: Female Reproductive System (45 min.) -&nbsp;<em>Dr. Henry Klapholz</em></td>
+<td>(<a href="female_repro_sys.pdf">PDF 1</a>)<br /><br />(<a href="endomertrio_chap.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Normal Menstrual Cycle (1 hr.) -&nbsp;<em>Dr. Alan Penzias</em><br /><br />Abnormalities of the Menstrual Cycle (1 hr.) -&nbsp;<em>Dr. Alan Penzias</em><br /><br />Clinical Pathological Conference: Menstrual Cycle (45 min.) -&nbsp;<em>Dr. Alan Penzias</em></td>
+<td>(<a href="normal_mens_cyc.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Uterine Pathology: Fibroids (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em>&nbsp;(<a href="fibroids.pdf">PDF</a>)<br /><br />Ovarian Pathology (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em>&nbsp;(<a href="ovarian_tumors.pdf">PDF</a>)<br /><br />Clinical Pathological Conference: Gynecologic Pathology (15 min.) -&nbsp;<em>Dr. Henry Klapholz</em></td>
+<td>(<a href="fibroids_chap.pdf">PDF 1</a>)<br /><br />(<a href="ovarian_pathlogy.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Non-hormonal Contraception I (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em>&nbsp;(<a href="non_hormonal_con.pdf">PDF</a>)<br /><br />Non-hormonal Contraception II (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Clinical Pathological Conference: Contraception (45 min.) -&nbsp;<em>Dr. Henry Klapholz</em></td>
+<td>(<a href="non_hormonal.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Hormonal Contraception (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em>&nbsp;(<a href="hormonal_contrp.pdf">PDF</a>)<br /><br />Phytoestrogens (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Clinical Pathological Conference: Menstrual Cycle (45 min.) -&nbsp;<em>Dr. Alan Penzias</em></td>
+<td>(<a href="hormonal_con.pdf">PDF 1</a>)<br /><br />(<a href="phytoestrogens.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Placenta (1 hr.) -&nbsp;<em>Dr. Drucilla Roberts</em><br /><br />Placental Pathology (1 hr.) -&nbsp;<em>Dr. Drucilla Roberts</em><br /><br />Clinical Pathological Conference: Menstrual Cycle (15 min.) -&nbsp;<em>Dr. Alan Penzias</em></td>
+<td>(<a href="placenta.pdf">PDF 1</a>)<br /><br />(<a href="placental_path.pdf">PDF 2</a>)<br /><br />(<a href="placental_path2.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="row">
+<td>The Cervix (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Cervical Pathology and Cancer (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em>&nbsp;(<a href="cervical_cancer.pdf">PDF</a>)<br /><br />Clinical Pathological Conference: Cervix (45 min.) -&nbsp;<em>Dr. Henry Klapholz</em></td>
+<td>(<a href="cervix.pdf">PDF 1</a>)<br /><br />(<a href="genital_warts.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sexual Differentiation I (1 hr.) -&nbsp;<em>Dr. Patricia Donahoe</em><br /><br />Sexual Differentiation II (1 hr.) -&nbsp;<em>Dr. Patricia Donahoe</em><br /><br />Clinical Pathological Conference: Sexual Differentiation (45 min.) -&nbsp;<em>Dr. Henry Klapholz</em></td>
+<td>(<a href="sexual_differen.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Infertility (1 hr.) -&nbsp;<em>Dr. Selwyn Oskowitz</em><br /><br />Assisted Reproductive Technology (1 hr.) -&nbsp;<em>Dr. Selwyn Oskowitz</em><br /><br />Clinical Pathological Conference: Infertility (15 min.) -&nbsp;<em>Dr. Selwyn Oskowitz</em></td>
+<td>(<a href="infertility.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Maternal Physiology I (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Maternal Physiology II (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Clinical Pathological Conference: Maternal Physiology (45 min.) -&nbsp;<em>Dr. Henry Klapholz</em></td>
+<td>(<a href="maternal_physio.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Hypertension in Pregnancy (1 hr.) -&nbsp;<em>Dr. Kee-Hak Lim</em><br /><br />Film Viewing:&nbsp;<em>Eclampsia</em>&nbsp;(45 min.)</td>
+<td>(<a href="hypertension.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Uterine Physiology (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Parturition (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Video - Normal Labor and Delivery (45 min.)</td>
+<td>(<a href="uterine_physlogy.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Polycystic Ovarian Syndrome (PCO) (1 hr. 15 min.) -&nbsp;<em>Dr. Robert Barbieri<br /><br /></em>Ovarian Failure (1 hr.) -&nbsp;<em>Dr. Jan Shifren</em></td>
+<td>(<a href="poly_ovar_syndom.pdf">PDF 1</a>)<br /><br />(<a href="ovarian_failure.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Toxoplasmosis (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Isoimmunization (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em></td>
+<td>(<a href="toxoplasmosis.pdf">PDF 1</a>)<br /><br />(<a href="isoimmunization.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td>Teratology (1 hr. 25 min.) -&nbsp;<em>Dr. Lewis Holmes</em><br /><br />Ultrasound Prenatal Diagnosis (1 hr. 30 min.) -&nbsp;<em>Dr. Beryl Benacerraf</em></td>
+<td>(<a href="teratology.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Energy and Radiation Impact on Pregnancy (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Prenatal Genetic Diagnosis (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em></td>
+<td>(<a href="energy_impact.pdf">PDF 1</a>)<br /><br />(<a href="prenatal_genetic.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td>Fetal Surveillance (1 hr.) -&nbsp;<em>Dr. Henry Klapholz</em><br /><br />Pregnancy Termination Technology (1 hr. 15 min.) -&nbsp;<em>Dr. Henry Klapholz</em></td>
+<td>(<a href="fetal_surveill.pdf">PDF 1</a>)<br /><br />(<a href="pregnancy_termi.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Film Viewing:&nbsp;<em>The Way It Was</em>&nbsp;(1 hr.)<br /><br />Film Viewing:&nbsp;<em>Life's Greatest Miracle</em>&nbsp;(1 hr. 15 min.)</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
