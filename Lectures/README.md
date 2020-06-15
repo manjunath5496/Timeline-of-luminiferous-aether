@@ -28,7 +28,7 @@
 <li><a href="#course27">Medical Decision Support</a></li>
 <li><a href="#course28">Biomedical Computing</a></li> 
  <li><a href="#course29">Music Perception and Cognition</a></li> 
-  <li><a href="#course30">A Hands-On Introduction to Nuclear Magnetic Resonance</a></li>
+  <li><a href="#course30">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
 
 
 </ul>
@@ -3131,5 +3131,36 @@
 <p>Some Fundamental Problems in the Psychology of Music (<a href="5/MITHST_725S09_assn01_fdqst.pdf">PDF</a>)</p>
 </br>
 
-
+<h2 id="course30">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="5/assignment1.pdf">PDF</a>)</td>
+<td>(<a href="5/solutions1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="5/assignment2.pdf">PDF</a>)</td>
+<td>(<a href="5/solutions2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="5/assignment3.pdf">PDF</a>)</td>
+<td>(<a href="5/solutions3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="5/assignment4.pdf">PDF</a>)</td>
+<td>(<a href="5/solutions4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="5/assignment5.pdf">PDF</a>)</td>
+<td>(<a href="5/solutions5.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
