@@ -15,7 +15,7 @@
 <li><a href="#course14">Health Information Systems to Improve Quality of Care in Resource-Poor Settings</a></li>
 <li><a href="#course15">Computing for Biomedical Scientists</a></li>
 <li><a href="#course16">Medical Computing</a></li>
-<li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
+<li><a href="#course17">Biomedical Signal and Image Processing</a></li>
 <li><a href="#course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
 <li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
 <li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
@@ -1784,4 +1784,171 @@
 </table>
 
 </br>
+<h2 id="course17">Biomedical Signal and Image Processing</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">INSTRUCTORS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Data acquisition</td>
+<td>JG</td>
+<td>
+<p>Introduction to Biomedical Signal and Image Processing (<a href="3/l1_intro.pdf">PDF</a>)</p>
+<p>Chapter 1: data acquisition (<a href="3/ch1_adc.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Digital filtering</td>
+<td>JG</td>
+<td>Chapter 2: digital filters (<a href="3/ch2_dfilt.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>ECG</td>
+<td>Guest: Andrew Reisner, MD</td>
+<td>
+<p>Slides: Introduction to Clinical Electrocardiography (<a href="3/l3_ecg_reisner.pdf">PDF - 1.3 MB</a>) (Courtesy of Andrew Reisner, MD. Used with permission.)</p>
+<h3 class="subsubhead">Reading</h3>
+<p>Reisner, A. T., G. Clifford, and R. Mark. "The Physiological Basis of the Electrocardiogram." Chapter 1 in&nbsp;<em>Advanced Methods and Tools for ECG Data Analysis</em>. Edited by Clifford, G., F. Azuaje, and P. McSharry. Norwood, MA: Artech House, 2006. ISBN: 9781580539661. (<a href="3/ecg_ch1.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>DTFT</td>
+<td>JG</td>
+<td>Chapter 3: Fourier representation of signals and systems (<a href="3/ch3_dtft.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>DFT</td>
+<td>JG</td>
+<td>Chapter 4: the discrete Fourier transform (<a href="3/ch4_dft.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sampling revisited</td>
+<td>JG</td>
+<td>
+<p>Chapter 5: sampling in time and frequency (<a href="3/ch5_samp.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Background Reading</h3>
+<p>Chapter 6: Z-transforms (<a href="3/ch6_ztrans.pdf">PDF</a>) (not covered in class, but distributed for completeness)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Speech signals</td>
+<td>JG</td>
+<td>
+<p>Quatieri, T. F. "Production and Classification of Speech Sounds." Chapter 3 in&nbsp;<em>Discrete-Time Speech Signal Processing: Principles and Practice</em>. Upper Saddle River, NJ: Prentice-Hall, 2001. ISBN: 9780132429429.</p>
+<p>Chapter 7: the short-time Fourier transform (<a href="3/ch7_stft.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Speech coding</td>
+<td>JG</td>
+<td>
+<p>Chapter 7: the short-time Fourier transform (cont. from prior session)</p>
+<p>Chapter 8: linear prediction (<a href="3/ch8_lpc.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Image processing I</td>
+<td>JG</td>
+<td>Chapter 9: image processing (<a href="3/ch9_image.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>PDFs</td>
+<td>JF</td>
+<td>
+<p>Slides for Lec #10 and #11: decision systems (<a href="3/l10_11_decision.pdf">PDF</a>)</p>
+<p>Probability primer (<a href="3/ch10_prob.pdf">PDF</a>), Venn diagrams (<a href="3/l10_venn.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Classification</td>
+<td>JF</td>
+<td>Slides continued from prior session</td>
+</tr>
+<tr class="alt-row">
+<td>Image processing II</td>
+<td>SW</td>
+<td>Image processing 2 (<a href="3/l13_ip2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Estimating PDFs</td>
+<td>JF</td>
+<td>Decision systems 2 - density estimation (<a href="3/l14_densest.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Segmentation</td>
+<td>SW</td>
+<td>Introduction to medical image segmentation (<a href="3/l15_seg.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Image registration I</td>
+<td>Guest: Lilla Z&ouml;llei</td>
+<td>Slides (<a href="3/l16_reg1.pdf">PDF - 1.3 MB</a>) (Courtesy of Lilla Z&ouml;llei. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>Image registration II</td>
+<td>Guest: Lilla Z&ouml;llei</td>
+<td>Slides (<a href="3/l17_reg2.pdf">PDF - 2.5 MB</a>) (Courtesy of Lilla Z&ouml;llei. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>Imaging modalities</td>
+<td>SW</td>
+<td>Medical image modalities (<a href="3/l18_modalities.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Random signals I</td>
+<td>JF</td>
+<td>
+<p>Slides for Lec #18 and #19: random signal processing (<a href="3/l19_20_randsig.pdf">PDF - 1.5 MB</a>)</p>
+<h3 class="subsubhead">Reading</h3>
+<p>Chapter 11: random signals &ndash; basic properties (<a href="3/ch11_randsig.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Random signals II</td>
+<td>JF</td>
+<td>
+<p>Slides continued from prior session</p>
+<h3 class="subsubhead">Reading</h3>
+<p>Chapter 12: random signals and linear systems (<a href="3/ch12_randsys.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Blind source separation</td>
+<td>GC</td>
+<td>
+<p>Lecture slides (<a href="3/l21_bss08.pdf">PDF - 1.8 MB</a>)</p>
+<h3 class="subsubhead">Reading</h3>
+<p>Chapter 15: blind source separation (<a href="3/ch15_bss.pdf">PDF - 1.3 MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>MRI</td>
+<td>Guest: R. V. Mulkern, PhD Department of Radiology, Children's Hospital Boston</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Surgical applications</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Random signals III</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>End of term wrap-up</td>
+<td>JG</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
