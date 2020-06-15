@@ -3167,4 +3167,11 @@
 <p>Midterm Quiz (<a href="5/quiz.pdf">PDF</a>)</p>
 <p>Solutions (<a href="5/quiz_solutions.pdf">PDF</a>)</p>
 </br>
-
+<p>Final Project Description (<a href="5/proj_description.pdf">PDF</a>)</p>
+<h2 class="subhead">Project Work by Ryan Lanning</h2>
+<p>Executive Summary (<a href="5/ryan_lannsumary.pdf">PDF</a>)</p>
+<p>Presentation (<a href="5/ryan_lan_present.pdf">PDF</a>)</p>
+<h2 class="subhead">Project Work by Jin Zhou</h2>
+<p>Executive Summary (<a href="5/jinzhousummary.pdf">PDF</a>)</p>
+<p>Presentation (<a href="5/jinzhoupresent.pdf">PDF</a>)</p>
+</br>
