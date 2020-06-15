@@ -20,7 +20,7 @@
 <li><a href="#course19">Brain Mechanisms for Hearing and Speech</a></li>
 <li><a href="#course20">Neural Coding and Perception of Sound</a></li>
 <li><a href="#course21">Medical Artificial Intelligence</a></li>
-<li><a href="#course22">Principles of Radiation Interactions</a></li>
+<li><a href="#course22">Designing and Sustaining Technology Innovation for Global Health Practice</a></li>
 <li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
 <li><a href="#course24">Introduction to Plasma Physics I</a></li>
 <li><a href="#course25">MHD Theory of Fusion Systems</a></li>
@@ -2255,6 +2255,105 @@
 
 </br>
 
+<h2 id="course22">Designing and Sustaining Technology Innovation for Global Health Practice</h2>
 
-
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURERS</th>
+<th scope="col">STUDENT NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Overview</td>
+<td>
+<p>Jeffrey Blander (<a href="4/blander_bio.pdf">PDF</a>)</p>
+<p>Utkan Demirci (<a href="4/utkan_bio.pdf">PDF</a>)</p>
+</td>
+<td>(<a href="4/lecture01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Expanding global access to life saving vaccines: HPV vaccine case study</td>
+<td>Jacqueline Sherris (<a href="4/jacqueline_bio.pdf">PDF</a>)</td>
+<td>(<a href="4/lecture02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>New systems for drug delivery</td>
+<td>Robert Langer (<a href="4/robert_bio.pdf">PDF</a>)</td>
+<td>(<a href="4/lecture03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Microfluidics and global health practice</td>
+<td>
+<p>David Steinmiller (<a href="4/david_st_bio.pdf">PDF</a>)</p>
+<p>Elizabeth Bailey (<a href="4/elizabeth_bio.pdf">PDF</a>)</p>
+<p>Michael Lytton (<a href="4/michael_bio.pdf">PDF</a>)</p>
+</td>
+<td>(<a href="4/lecture04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Alternative energy sources</td>
+<td>David Berry (<a href="4/david_bio.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>R&amp;D for resource poor settings</td>
+<td>George Whitesides</td>
+<td>(<a href="4/lecture06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Field trip to&nbsp;<a href="http://bammlabs.com/">BAMM Labs</a>&nbsp;(Bio-Acoustic MEMS in Medicine)</td>
+<td>Utkan Demerci</td>
+<td>(<a href="4/lecture07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Medical device development</td>
+<td>Trevor Gunn</td>
+<td>(<a href="4/lecture08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Electronic medical records and research systems</td>
+<td>
+<p>Ben Bauman (<a href="4/ben_bio.pdf">PDF</a>)</p>
+<p>Vikram Kumar (<a href="4/vikram_bio.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>BioPharmaceuticals</td>
+<td>
+<p>Joanna Lowell, BVGH</p>
+<p>Gail Cassell (<a href="4/gail_bio.pdf">PDF</a>)</p>
+</td>
+<td>(<a href="4/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vaccines development</td>
+<td>Kalpana Gupta, IAVI</td>
+<td>(<a href="4/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Technology innovation</td>
+<td>Kris Olsen (<a href="4/kristian_bio.pdf">PDF</a>)</td>
+<td>(<a href="4/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Venture philanthropy</td>
+<td>Brian Trelstad, Omer Imtiazuddin</td>
+<td>(<a href="4/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final overview and lessons learned</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Final projects and presentations</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
