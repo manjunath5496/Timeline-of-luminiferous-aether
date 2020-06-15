@@ -2,7 +2,7 @@
 <li><a href="#course1">Musculoskeletal Pathophysiology</a></li>
 <li><a href="#course2">Principle and Practice of Human Pathology</a></li>
 <li><a href="#course3">Human Reproductive Biology</a></li>
-<li><a href="#course4">Nuclear Systems Design Project</a></li>
+<li><a href="#course4">Gastroenterology</a></li>
 <li><a href="#course5">Neutron Science and Reactor Physics</a></li>
 <li><a href="#course6">Principles of Medical Imaging</a></li>
 <li><a href="#course7">Engineering of Nuclear Systems</a></li>
@@ -291,4 +291,165 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course4">Gastroenterology</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FALL 2002</th>
+<th scope="col">FALL 2005</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Overview of Embryology</p>
+<p>Overview of Physiology</p>
+</td>
+<td>
+<p>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section1.pdf">PDF - 1.2 MB</a>)</span></p>
+<p>Dr. Jonathan N. Glickman (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section2.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>Dr. Jonathan N. Glickman (<a href="05_glickman.pdf">PDF</a>)</p>
+<p>Dr. Jonathan N. Glickman (<a href="07_glickman.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Gastroduodenal Pathophysiology and Disorders</p>
+<p>Pathology of Esophagus and Stomach</p>
+</td>
+<td>
+<p>Dr. Helen Shields</p>
+<p>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section5.pdf">PDF - 3.2 MB</a>)</span></p>
+</td>
+<td>
+<p>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="06_glickman.pdf">PDF - 1.6 MB</a>)</span></p>
+<p>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<a href="08_glickman.pdf">PDF - 2.3 MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Mucosal Immunology of the GI Tract</td>
+<td>Dr. Richard S. Blumberg</td>
+<td>Dr. Richard S. Blumberg&nbsp;<span class="nobr">(<a href="01_blumberg.pdf">PDF - 1.0 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Lipid Digestion, Absorption and Malabsorption</td>
+<td>Dr. Martin C. Carey&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section8.pdf">PDF - 1.1 MB</a>)</span></td>
+<td>Dr. Martin C. Carey (<a href="03_carey.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Minicases: Esophagus and Gastric Disorders</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Intestinal Pathophysiology</td>
+<td>Dr. Wayne I. Lencer</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Pathology of the Intestines</td>
+<td>Drs. Carolyn C. Compton and Jonathan N. Glickman</td>
+<td>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<a href="hstntetins05open.pdf">PDF - 4.8 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Clinic: Inflammatory Bowel Disease</p>
+<p>Minicases: Malabsorption</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Gastrointestinal Neoplasms</td>
+<td>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section10.pdf">PDF - 3.1 MB</a>)</span></td>
+<td>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<a href="hstneopla05opens.pdf">PDF - 4.0 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Physiological Chemistry of GI Lipids</td>
+<td>Dr. Martin C. Carey&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section11.pdf">PDF - 1.6 MB</a>)</span></td>
+<td>Dr. Martin C. Carey (<a href="04_carey.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Physiology and Biochemistry of the Pancreas</p>
+<p>Acute and Chronic Pancreatitis</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Pathology of Pancreas and Biliary Tract</td>
+<td>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section14.pdf">PDF - 1.2 MB</a>)</span></td>
+<td>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<a href="hstpancre05open.pdf">PDF - 2.9 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Biliary Secretion, Cholestasis and Gallstone Formation</td>
+<td>Dr. Martin C. Carey (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section15.pdf">PDF</a>)</td>
+<td>Dr. Martin C. Carey&nbsp;<span class="nobr">(<a href="02_carey.pdf">PDF - 4.1 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Imaging of the GI Tract</p>
+<p>Diagnostic and Therapeutic Endoscopy</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Pathology of the Liver</td>
+<td>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section22.pdf">PDF - 5.7 MB</a>)</span></td>
+<td>Dr. Jonathan N. Glickman&nbsp;<span class="nobr">(<a href="liverpath05opens.pdf">PDF - 6.2 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Immunology of the Liver</td>
+<td>Dr. Jack Wands</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Jaundice and Disorders of Bilirubin Metabolism</p>
+<p>Alcohol and Drug-Induced Liver Disease</p>
+</td>
+<td>
+<p>Dr. Raymond T. Chung (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section20.pdf">PDF</a>)</p>
+<p>Dr. Raymond T. Chung&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section19.pdf">PDF - 2.9 MB</a>)</span></p>
+</td>
+<td>Dr. Raymond T. Chung&nbsp;<span class="nobr">(<a href="14_chung.pdf">PDF - 2.2 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Physiology and Biochemistry of the Liver</p>
+<p>Minicases: Pancreas and Biliary Disease</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Clinic: Chronic Liver Disease and Liver Transplantation</p>
+<p>Minicases: Liver Disease</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Pathophysiological Consequences of Cirrhosis</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Motility of the Alimentary Tract&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section6.pdf">PDF - 4.2 MB</a>)</span></p>
+<p>Physiology and Biochemistry of the Pancreas&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section12.pdf">PDF - 1.2 MB</a>)</span></p>
+<p>Acute and Chronic Pancreatitis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section13.pdf">PDF</a>)</p>
+<p>Imaging of the GI Tract (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section16.pdf">PDF</a>)</p>
+<p>Physiology and Biochemistry of the Liver&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section17.pdf">PDF - 5.5 MB</a>)</span></p>
+<p>Diagnostic and Therapeutic Endoscopy (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section21.pdf">PDF</a>)</p>
+<p>Pathophysiological Consequences of Cirrhosis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="section23.pdf">PDF</a>)</p>
 </br>
