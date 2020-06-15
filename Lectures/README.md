@@ -24,7 +24,7 @@
 <li><a href="#course23">Molecular Biology for the Auditory System</a></li>
 <li><a href="#course24">Quantitative Physiology: Organ Transport Systems</a></li>
 <li><a href="#course25">Information Technology in the Health Care System of the Future</a></li>
-<li><a href="#course26">Plasma Transport Theory</a></li>
+<li><a href="#course26">Functional Magnetic Resonance Imaging: Data Acquisition and Analysis</a></li>
 <li><a href="#course27">Superconducting Magnets</a></li>
 <li><a href="#course28">Introduction to Sustainable Energy</a></li> 
  <li><a href="#course29">Managing Nuclear Technology</a></li> 
@@ -2583,4 +2583,118 @@
 </table>
 
 </br>
-
+<h2 id="course26">Functional Magnetic Resonance Imaging: Data Acquisition and Analysis</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">INSTRUCTORS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Part 3. Physics of image acquisition</strong></td>
+</tr>
+<tr class="alt-row">
+<td>MRI physics I (<a href="4/0924_lw_physics1.pdf">PDF - 1.5 MB</a>)</td>
+<td>Wald</td>
+</tr>
+<tr class="row">
+<td>MRI physics II (<a href="4/0929_lw_physics2.pdf">PDF - 4.9 MB</a>)</td>
+<td>Wald</td>
+</tr>
+<tr class="alt-row">
+<td>MRI physics III (<a href="4/1001_lw_physics3.pdf">PDF - 2.1 MB</a>)</td>
+<td>Wald</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part 4. Imaging physiology</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Imaging physiology I: brain at the baseline (<a href="4/1006_db_physiol1.pdf">PDF - 1.7 MB</a>)</td>
+<td>Bolar</td>
+</tr>
+<tr class="row">
+<td>Imaging physiology II: brain activation (<a href="4/1008_bol_physl2.pdf">PDF - 2.9 MB</a>)</td>
+<td>Bolar</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Imaging physiology III: BOLD imaging (<a href="4/1015_bol_physl3.pdf">PDF - 1.2 MB</a>)</p>
+<h3 class="subsubhead">Supplemental video for slide 47</h3>
+<p>Screen grating animation (<a href="http://ocw.mit.edu/ans7870/HST/HST.583/f08/ScreenGrating.mov">MOV</a>)</p>
+</td>
+<td>Bolar</td>
+</tr>
+<tr class="row">
+<td>
+<p>Imaging physiology IV: BOLD (cont.) and non-BOLD techniques (<a href="4/1020_db_physl4.pdf">PDF - 2.4 MB</a>)</p>
+<h3 class="subsubhead">Supplemental diffusion videos for slides 24-27</h3>
+<p>Large vessels: GRE (<a href="http://ocw.mit.edu/ans7870/HST/HST.583/f08/LV_GRE-3.mov">MOV</a>)<br />Large vessels: SE (<a href="http://ocw.mit.edu/ans7870/HST/HST.583/f08/LV_SE-7.mov">MOV</a>)<br />Small vessels: GRE (<a href="http://ocw.mit.edu/ans7870/HST/HST.583/f08/SV_GRE-1.mov">MOV</a>)<br />Small vessels: SE (<a href="http://ocw.mit.edu/ans7870/HST/HST.583/f08/SV_SE-6.mov">MOV</a>)</p>
+</td>
+<td>Bolar</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Quantitative perfusion and diffusion imaging biomarkers</p>
+<p>Physics of diffusion weighted imaging (<a href="4/1022_ay_diffusion.pdf">PDF - 1.2 MB</a>)</p>
+</td>
+<td>
+<p>Sorensen</p>
+<p>Yendiki</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part 6. Statistical analysis</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Stats 2: level 1 (<a href="4/1112_dg_outline.pdf">PDF</a>)</td>
+<td>Greve</td>
+</tr>
+<tr class="row">
+<td>Stats 3: level 1 (cont.)</td>
+<td>Greve</td>
+</tr>
+<tr class="alt-row">
+<td>Stats 4: level 2</td>
+<td>Greve</td>
+</tr>
+<tr class="row">
+<td>Stats 5: correction for multiple measures (<a href="4/1124_mv_stats1.pdf">PDF</a>)</td>
+<td>Vangel</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Stats 6: exploratory analysis, PCA, ICA, fuzzy clustering</p>
+<p>Stats 7: causality (<a href="4/1126_mv_stats2.pdf">PDF</a>)</p>
+</td>
+<td>Vangel</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part 7. Structure and functional analysis</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Structural-functional integration</td>
+<td>Salat</td>
+</tr>
+<tr class="row">
+<td>
+<p>Quantitative neuroimaging biomarkers (<a href="4/1203_kh_biomarkr.pdf">PDF - 1.6 MB</a>)</p>
+<p>Surface-based anatomical analysis</p>
+</td>
+<td>
+<p>Helmer</p>
+<p>Salat</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Spatial normalization for group analysis (<a href="4/1208_ms_norm.pdf">PDF</a>)</td>
+<td>Sabuncu</td>
+</tr>
+<tr class="row">
+<td>Granger causality analysis for fMRI</td>
+<td>Vangel</td>
+</tr>
+</tbody>
+</table>
+</br>
