@@ -27,10 +27,9 @@
 <li><a href="#course26">Functional Magnetic Resonance Imaging: Data Acquisition and Analysis</a></li>
 <li><a href="#course27">Medical Decision Support</a></li>
 <li><a href="#course28">Biomedical Computing</a></li> 
- <li><a href="#course29">Managing Nuclear Technology</a></li> 
+ <li><a href="#course29">Music Perception and Cognition</a></li> 
   <li><a href="#course30">A Hands-On Introduction to Nuclear Magnetic Resonance</a></li>
-   <li><a href="#course31">Nuclear Power Plant Dynamics and Control</a></li> 
-    <li><a href="#course32">Career Options for Biomedical Research</a></li> 
+
 
 </ul>
 <p>&nbsp;</p>
@@ -3065,6 +3064,71 @@
 <p>Clifford, G., et al. "Robust Parameter Extraction for Decision Support Using Multimodal Intensive Care Data."&nbsp;<em>Philosophical Transactions of the Royal Society&nbsp;</em>A 367 (2009). (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/clifford-2009.pdf">PDF</a>)</p>
 <p>Stead, William W., and Herbert S. Lin, eds. "Computational Technology for Effective Health Care: Immediate Steps and Strategic Directions." National Academies Press, 2009. (<a href="5/comptech_2009.pdf">PDF</a>)</p>
 
+</br>
+
+<h2 id="course29">Music Perception and Cognition</h2>
+<p>Summary of key lecture topics (<a href="5/MITHST_725S09_lec_sumaries.pdf">PDF - 1.6MB</a>)</p>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Course introduction</p>
+<p>Overview of the structure of music</p>
+<p>Overview of music's psychological and social functions</p>
+</td>
+<td>
+<p>(<a href="5/MITHST_725S09_lec01_intro.pdf">PDF - 1.1MB</a>)</p>
+<p>(<a href="5/MITHST_725S09_lec02_why.pdf">PDF - 2.7MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Overview: auditory perception and the time sense</td>
+<td>(<a href="5/MITHST_725S09_lec02_why.pdf">PDF - 2.7MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Overview of the auditory system</td>
+<td>(<a href="5/MITHST_725S09_lec03_what.pdf">PDF - 3.2MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pitch</td>
+<td>(<a href="5/MITHST_725S09_lec04_pitch.pdf">PDF - 6.0MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Pitch mechanisms and neurocomputational models</td>
+<td>(<a href="5/MITHST_725S09_lec05_pitchmech.pdf">PDF - 5.7MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Timbre</td>
+<td>(<a href="5/MITHST_725S09_lec07_timbre.pdf">PDF - 2.0MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Consonance, dissonance, and roughness</td>
+<td>(<a href="5/MITHST_725S09_lec08_conson.pdf">PDF - 5.4MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Scales, tuning and harmony</td>
+<td>(<a href="5/MITHST_725S09_lec09_scales.pdf">PDF - 2.2MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Melody</td>
+<td>(<a href="5/MITHST_725S09_lec10_mel.pdf">PDF - 1.8MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Rhythm, timing, and expectation</td>
+<td>(<a href="5/MITHST_725S09_lec16_rhy.pdf">PDF - 3.8MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Harmonic Structure and Tuning Systems (<a href="5/MITHST_725S09_pset_01.pdf">PDF</a>), Solutions (<a href="5/MITHST_725S09_sol_pset_01.pdf">PDF</a>) (Solutions courtesy of Julia Fong. Used with permission.)</p>
+<p>Some Fundamental Problems in the Psychology of Music (<a href="5/MITHST_725S09_assn01_fdqst.pdf">PDF</a>)</p>
 </br>
 
 
