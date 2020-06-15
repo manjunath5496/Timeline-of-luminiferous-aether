@@ -8,7 +8,7 @@
 <li><a href="#course7">Cellular and Molecular Immunology</a></li>
 <li><a href="#course8">Projects in Microscale Engineering for the Life Sciences</a></li>
 <li><a href="#course9">Survival Skills for Researchers: The Responsible Conduct of Research</a></li>
-<li><a href="#course10">Applied Nuclear Physics</a></li>
+<li><a href="#course10">Quantitative Genomics</a></li>
 <li><a href="#course11">Microscopic Theory of Transport</a></li>
 <li><a href="#course12">Electromagnetic Interactions</a></li>
 <li><a href="#course13">Neutron Interactions and Applications</a></li>
@@ -1035,6 +1035,123 @@
 </tr>
 <tr class="row">
 <td headers="col2">Career Pathways (<a href="1/11careers.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course10">Quantitative Genomics</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl13id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl13id0_1">Introduction -&nbsp;<em>Prof. Leonid Mirny</em>&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture0.pdf">PDF - 1.8 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="tbl13id0_0"><strong>Module 1: Evolutionary and Population Genetics -&nbsp;<em>Lectures by Prof. Robert Berwick</em></strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">The Basic Forces of Evolution: Mutation, Recombination and Mating, Migration, Neutral Evolution and Drift, Effective Population Size (<a href="1/hst508lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Selection, Fitness, Probability of Fixation, Coalescent Theory (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/hst2.pdf">PDF - 3.3 MB</a>)<br /><br />Parameter Estimation</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">The Basic Forces of Evolution: Mutation, Recombination and Mating, Migration, Neutral Evolution and Drift, Effective Population Size<br /><br />Selection, Fitness, Probability of Fixation, Coalescent Theory<br /><br />Parameter Estimation</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Selection, Fitness, and Diffusion Models (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/hst3.pdf">PDF - 3.4 MB</a>)<br /><br />Molecular Evolution, Jukes-Cantor Model, Kimura Model</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Human/Mouse/Rat Examples<br /><br />Measuring Selection: From 'Classical' Methods to Maximum Likelihood (With Applications to Disease Evolution, HIV and Influenza)<br /><br />McDonald-Kreitman Test</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Discussion of Problem Set 1</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Medical Lecture: Genetic Diversity and Evolution of Hepatitis C Virus -&nbsp;<em>Prof. Isaac Kohane</em></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Guest Lecture -&nbsp;<em>Prof. Richard Lewontin</em></td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl13id0_0"><strong>Module 2: Comparative Genomics -&nbsp;<em>Lectures by Prof. Shamil Sunyaev</em></strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Domain Structure of Proteins, Sequence-Structure-Function Relationships<br /><br />Orthologs, Paralogs, In/Out-Paralogs<br /><br /><em>Pairwise Sequence Comparison<br /></em>- Substitution Matrices (PAM, BLOSUM, Gonnet)<br />- Alignment Methods<br />- Alignment Statistics</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Structure of the Genome<br /><br />Genome Comparison and Genome Evolution: Duplication, Recombination, Insertions, Repeats<br /><br />Finding Genome Elements: Genes, Regulatory Regions<br /><br />Motif Searching<br /><br />Conserved Non-coding</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Infinite Site Model: Nucleotide Diversity, Allele Frequency</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Multiple Alignments, Profiles and PSSM, HMMs, Domain Databases<br /><br />Prediction of Gene Function Using: Homology, Context, Structure</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">SNPs: Microevolution, Inference of Population History<br /><br />LD, Haplotypes, Medical Applications<br /><br />Effect of SNPs on Function</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Recitation: SNPs</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Medical Lecture: Human Variations Genes, Genotypes and Generations -&nbsp;<em>Dr. Marco Ramoni</em>&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/ra_hst508_103105.pdf">PDF</a>) (Courtesy of Dr. Marco Ramoni. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl13id0_0"><strong>Module 3: Structural Genomics and Proteomics -&nbsp;<em>Lectures by Prof. Leonid Mirny</em></strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Overview of Protein Structures, Domain Architecture (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture_st1.pdf">PDF - 1.2 MB</a>)<br /><br />Sequence-structure Mapping, Protein Folding, Forces and Interactions</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Structure-based Substitution Matrices (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lecture_st2.pdf">PDF - 1.1 MB</a>)<br /><br />Protein Structure Prediction<br /><br />Threading<br /><br />Protein Function: Binding and Kinetics, Michaelis-Menthen Kinetics, Inhibition<br /><br />Protein-DNA Recognition: Models and Algorithms</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Proteomics: Networks of Protein-protein Interactions, Complexes, Modules<br /><br />Power-law Distributions, Clustering Coefficient</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Proteomics: Evolution of Protein and Regulatory Networks, Function and Misfunction of Genes in Networks</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Recitation</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Medical Lecture: Hemoglobin and the Anemias -&nbsp;<em>Prof. Isaac Kohane</em></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Guest Lecture</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl13id0_0"><strong>Module 4: Functional Genomics and Networks -&nbsp;<em>Lectures by Prof. Alvin Kho</em></strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Gene Regulation and Function, Conservation, Detecting Regulatory Elements&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/hst508_113005_l1.pdf">PDF - 2.0 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">RNA Expression: Clustering and Classification (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/hst508_120705_l2.pdf">PDF - 5.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">RNA Expression: Classification, 2-way Clustering, Regulatory Modules (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/kho_hst508_lec3.pdf">PDF</a>)<br /><br />Integration of Expression and Proteomic Data</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Recitation</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Dynamics of Biological Networks Metabolic, Regulatory<br /><br />FBA, Signaling, Regulation of Gene Expression</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Medical Lectures -&nbsp;<em>Prof. Isaac Kohane</em><br />Two Examples: Phenylketonuria (monogenic) and Diabetes Type 2 (multigenic+)<br /><br />"Disease" Genes vs. "Susceptibility" Genes<br /><br />"Environmental" vs. "Developmental" Regulation of Gene Expression</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl13id0_1">Guest Lecture</td>
+</tr>
+<tr class="row">
+<td headers="tbl13id0_1">Final Presentations</td>
 </tr>
 </tbody>
 </table>
