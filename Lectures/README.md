@@ -12,7 +12,7 @@
 <li><a href="#course11">Genomics, Computing, Economics, and Society</a></li>
 <li><a href="#course12">Tumor Pathophysiology and Transport Phenomena</a></li>
 <li><a href="#course13">Principles and Practice of Tissue Engineering</a></li>
-<li><a href="#course14">Materials in Nuclear Engineering</a></li>
+<li><a href="#course14">Health Information Systems to Improve Quality of Care in Resource-Poor Settings</a></li>
 <li><a href="#course15">Engineering of Nuclear Reactors</a></li>
 <li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
 <li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
@@ -1420,4 +1420,173 @@
 </tbody>
 </table>
 
+</br>
+<h2 id="course14">Health Information Systems to Improve Quality of Care in Resource-Poor Settings</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURERS</th>
+<th scope="col">RESOURCES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3"><strong>Module I: Setting the Stage for eHealth</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Translational research and advocacy: New paradigms for equity</td>
+<td>Joia Mukherjee (Partners in Health)</td>
+<td>
+<p><a href="1/1.-translational-research-and-advocacy">Video 1 &amp; slides: Translational Research and Advocacy</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Design and impact of health information systems in developing countries</td>
+<td>Hamish Fraser (Partners in Health, Harvard Medical School)</td>
+<td>
+<p><a href="1/2.-design-and-impact-of-health-information-systems">Video 2 &amp; slides: Design and Impact of Health Information Systems</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Overview of quality improvement</td>
+<td>Leo Celi (MIT, Sana)</td>
+<td>
+<p><a href="1/3.-overview-of-quality-improvement">Video 3 &amp; slides: Overview of Quality Improvement</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Project mentor presentations</td>
+<td>Trishan Panch (Sana), Ikaro Silva (MIT, Sana), Freeman Changamire (Tufts University)</td>
+<td>
+<p><a href="1/MITHST_S14S12_lec04a_1201.pdf">Health Information Systems for Maternal Health in Zimbabwe (PDF)</a>&nbsp;by Freeman Changamire, MD, ScD</p>
+<p><a href="1/MITHST_S14S12_lec04b_1201.pdf">Medical Benefits of Cellphone Ultrasound Technology in Low Resource Settings (PDF)</a>&nbsp;by Ainhoa Costas, James Friedman, and Ketan Sharma</p>
+<p><a href="1/MITHST_S14S12_lec04c_1201.pdf">A Call for Safe Post-Operative Surgical Care (PDF)</a>&nbsp;by Lars Hagander</p>
+<p><a href="1/MITHST_S14S12_lec04d_1201.pdf">Visualization and Data Analysis: Healthcare Needs of Rural Clinics in Malawi (PDF)</a>&nbsp;by Rohit Joshi, Selene Mota, Alex Olwal</p>
+<p><a href="1/MITHST_S14S12_lec04e_1201.pdf">Hearing Loss Screening Through Cell Phones (PDF)</a>&nbsp;by Marzyeh Ghassemi, Ikaro Silva, Ana Guerreiro, and Lauren Scanlon</p>
+<p><a href="1/MITHST_S14S12_lec04f_1201.pdf">Maternal Concept Lab (PDF)</a>&nbsp;by Jonathan Payne</p>
+<p><a href="1/MITHST_S14S12_lec04g_1201.pdf">Sana + eHealthpoints (PDF)</a>&nbsp;by Trishan Panch</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Module II: Designing Health Information Systems</strong></td>
+</tr>
+<tr class="row">
+<td>Sana development workshop: Android client and OpenMRS development</td>
+<td>Eric Winkler (Sana)</td>
+<td>
+<p><a href="1/MITHST_S14S12_lec05a_1202.pdf">Sana Android Client and OpenMRS (PDF)</a></p>
+<p><a href="1/MITHST_S14S12_lec05b_1202.pdf">Android Client Development Introduction (PDF)</a></p>
+<p><a href="1/MITHST_S14S12_lec05c_1202.pdf">Data Model (PDF)</a></p>
+<p><a href="1/MITHST_S14S12_lec05d_1202.pdf">Dispatch Layer (PDF)</a></p>
+<p><a href="1/MITHST_S14S12_lec05e_1202.pdf">Procedure Declaration Using Mark Up Language (PDF)</a></p>
+<p><a href="1/MITHST_S14S12_lec05f_1202.pdf">Systems and Scalability (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Operations management at the front lines</td>
+<td>Martin Were (Indiana University)</td>
+<td>
+<p><a href="1/4.-health-systems-research">Video 4 &amp; slides: Case Studies in East Africa</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Process improvement theory and application</td>
+<td>Brandon Bennett (Institute for Healthcare Improvement)</td>
+<td>
+<p><a href="1/5.-process-improvement-theory-and-application">Video 5 &amp; slides: Process Improvement Theory and Application</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Case study: Designing a diabetes screening project in Punjab</td>
+<td>Trishan Panch (Sana)</td>
+<td><a href="1/MITHST_S14S12_lec08_1203.pdf">Lecture slides (PDF - 4.9MB)</a></td>
+</tr>
+<tr class="row">
+<td>Case study: Wireless labor monitoring for developing settings: From idea to prototype to testing and beyond</td>
+<td>Jessica Haberer (Massachusetts General Hospital)</td>
+<td><a href="1/MITHST_S14S12_lec09_1204.pdf">Lecture slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Development of standard terminology for global maternal and child health</td>
+<td>Jonathan Payne (Partners in Health)</td>
+<td><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MITHST_S14S12_lec10_1205.pdf">Lecture slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Smart software design for healthcare: unbiased signals, open and affordable technology for resource-constrained healthcare</td>
+<td>Gari D. Clifford (University of Oxford)</td>
+<td><a href="1/MITHST_S14S12_lec11_1206.pdf">Lecture slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Module III: Creating a Culture of Quality in Health Care</strong></td>
+</tr>
+<tr class="row">
+<td>Innovation and adoption of new practices</td>
+<td>Jonathan Jackson (Dimagi)</td>
+<td>
+<p><a href="1/6.-innovation-and-adoption-of-new-practices">Video 6 &amp; slides: Innovation and Adoption of New Practices</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Checklists: Quality improvement in developing countries</td>
+<td>Priya Agrawal and Alvin Kwok (World Health Organization, Harvard School of Public Health)</td>
+<td>
+<p><a href="1/7.-who-safe-surgery-and-safe-childbirth-checklists">Video 7 &amp; slides: WHO Safe Surgery and Safe Childbirth Checklists</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Evaluating process and outcome metrics in the context of quality</td>
+<td>Lisa Hirschhorn (Harvard Medical School)</td>
+<td>
+<p><a href="1/8.-what-is-quality-and-why-should-we-measure-it">Video 8 &amp; slides: What is Quality and Why Should We Measure It?</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Evaluating process and outcome metrics: Patient safety</td>
+<td>Pedro Delgado (Institute for Healthcare Improvement)</td>
+<td>
+<p><a href="1/9.-patient-safety-in-resource-poor-settings">Video 9 &amp; slides: Patient Safety in Resource-Poor Settings</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Organizational change: Positive deviance</td>
+<td>Jessica Haberer (Massachusetts General Hospital)</td>
+<td>
+<p><a href="1/10.-organizational-change-positive-deviance">Video 10 &amp; slides: Organizational Change: Positive Deviance</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Case study: Neri Clinics: Primary care in the developing world</td>
+<td>Patrick McSharry (Neri Clinics)</td>
+<td><a href="1/MITHST_S14S12_lec17_1209.pdf">Lecture slides (PDF - 3.7MB)</a></td>
+</tr>
+<tr class="row">
+<td>Organizational change: Lean sigma</td>
+<td>Andrew Kanter (Millenium Villages Project)</td>
+<td>
+<p><a href="1/11.-the-millenium-global-village-network">Video 11 &amp; slides: The Millenium Global Village-Network</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Collaborative change and wrap-up</td>
+<td>Chaitali Sinha (IDRC)</td>
+<td>
+<p><a href="1/12.-a-perspective-on-monitoring-and-evaluation">Video 12 &amp; slides: A Perspective on Monitoring and Evaluation</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Student final project presentations</td>
+<td>Students</td>
+<td>See&nbsp;<a href="https://ocw.mit.edu/courses/health-sciences-and-technology/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/projects#Final_Pres">Projects page</a></td>
+</tr>
+<tr class="alt-row">
+<td>Health system design: Lessons from Rwanda and Haiti</td>
+<td>Paul Farmer (Partners in Health)</td>
+<td>
+<p><a href="1/13.-health-system-design-lessons-from-rwanda-and-haiti">Audio 13 &amp; slides: Health System Design, Lessons from Rwanda and Haiti</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 </br>
