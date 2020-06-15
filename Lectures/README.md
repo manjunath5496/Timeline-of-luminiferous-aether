@@ -6,7 +6,7 @@
 <li><a href="#course5">Introduction to Neuroscience</a></li>
 <li><a href="#course6">Principles of Pharmacology</a></li>
 <li><a href="#course7">Cellular and Molecular Immunology</a></li>
-<li><a href="#course8">Introduction to Sustainable Energy</a></li>
+<li><a href="#course8">Projects in Microscale Engineering for the Life Sciences</a></li>
 <li><a href="#course9">Nuclear Reactor Safety</a></li>
 <li><a href="#course10">Applied Nuclear Physics</a></li>
 <li><a href="#course11">Microscopic Theory of Transport</a></li>
@@ -917,5 +917,80 @@
 </tbody>
 </table>
 </br>
-
-
+<h2 id="course8">Projects in Microscale Engineering for the Life Sciences</h2>
+<table class="tablewidth3" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Introductory exercises</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Microfluidics (<a href="lec01.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Microfabrication (<a href="lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cells and membranes (<a href="lec03.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Cells and membranes (cont.) (<a href="lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Models of diffusion and cell experiment (<a href="lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Laminar flow (<a href="lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Data analysis using MATLAB&reg; (<a href="lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Research applications (<a href="lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Research paper discussion</td>
+</tr>
+<tr class="row">
+<td>Visit research lab</td>
+</tr>
+<tr class="alt-row">
+<td>Cell traps (<a href="lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Cell traps (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Project brainstorming</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Projects</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Projects</td>
+</tr>
+<tr class="row">
+<td>Device fabrication</td>
+</tr>
+<tr class="alt-row">
+<td>Projects</td>
+</tr>
+<tr class="row">
+<td>
+<p>Project presentation</p>
+<p>Dry runs</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Projects</td>
+</tr>
+<tr class="row">
+<td>Project presentations</td>
+</tr>
+</tbody>
+</table>
+</br>
