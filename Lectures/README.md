@@ -7,7 +7,7 @@
 <li><a href="#course6">Principles of Pharmacology</a></li>
 <li><a href="#course7">Cellular and Molecular Immunology</a></li>
 <li><a href="#course8">Projects in Microscale Engineering for the Life Sciences</a></li>
-<li><a href="#course9">Nuclear Reactor Safety</a></li>
+<li><a href="#course9">Survival Skills for Researchers: The Responsible Conduct of Research</a></li>
 <li><a href="#course10">Applied Nuclear Physics</a></li>
 <li><a href="#course11">Microscopic Theory of Transport</a></li>
 <li><a href="#course12">Electromagnetic Interactions</a></li>
@@ -990,6 +990,51 @@
 </tr>
 <tr class="row">
 <td>Project presentations</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course9">Survival Skills for Researchers: The Responsible Conduct of Research</h2>
+
+<table class="tablewidth50" summary="Course Table Outline">
+<thead>
+<tr>
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction to Research Skills</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Professional Ethics&nbsp;and Bias in Research Design; Lab Animals in Research (<a href="1/2Biasandlabanim.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Study Design (<a href="1/3bstudydesign.pdf">PDF</a>)<br /><br />Human Subjects in Research (<a href="1/3ahumansubhandout.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Data Acquisition, Management, and Sharing (<a href="1/4data.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Credit&nbsp;and Responsibility in Science (<a href="1/5creditand.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Literature Review&nbsp;and Preparing Proposals&nbsp;and Manuscripts (<a href="1/6roposalsmanus.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Peer Review (<a href="1/7handoutpeerreview.pdf">PDF 1</a>), (<a href="1/7reviewchecklist.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Allegations of Misconduct (<a href="1/8allegationsofScie.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Advisors&nbsp;and Mentors (<a href="1/9mentorsadvisorsha.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Intellectual Property</td>
+</tr>
+<tr class="row">
+<td headers="col2">Career Pathways (<a href="1/11careers.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
