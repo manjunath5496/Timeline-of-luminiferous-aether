@@ -2698,3 +2698,51 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1: Neural systems (<a href="5/ps1.pdf">PDF</a>)</td>
+<td><em>not supplied</em></td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2: MRI physics (<a href="5/ps2.pdf">PDF</a>)
+<p>TA hints for questions 2 and 3 (<a href="5/ps2_q23_hints.pdf">PDF</a>)</p>
+</td>
+<td>(<a href="5/ps2_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3: Imaging physiology (<a href="5/ps3.pdf">PDF</a>)</td>
+<td>(<a href="5/ps3_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4: Statistical analysis of fMRI data (<a href="5/ps4.pdf">PDF</a>)</td>
+<td>(<a href="5/ps4_soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Midterm exam (<a href="5/midterm.pdf">PDF</a>)</td>
+<td>(<a href="5/midterm_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam (<a href="5/final.pdf">PDF</a>)</td>
+<td>(<a href="5/final_soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
