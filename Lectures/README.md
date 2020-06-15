@@ -1590,3 +1590,9 @@
 </tbody>
 </table>
 </br>
+<p><a href="1/MITHST_S14S12_proj_s12_1.pdf">"The Malawai Dataset" (PDF)</a>&nbsp;by Dhaval Adojah.</p>
+<p><a href="1/MITHST_S14S12_proj_s12_2.pdf">"Health Information Systems for Maternal Health in Zimbabwe" (PDF)</a>&nbsp;by Eden G-Sellassie and Tewuh Fomunyam.</p>
+<p><a href="1/MITHST_S14S12_proj_i2b2.pdf">"Designing a Public Health Software Framework: Porting OpenMRS data to i2b2" (PDF - 1.0MB)</a>&nbsp;by Tewuh Fomunyam, Jamie Symonds, and Stephen Lorenz.</p>
+<p><a href="1/MITHST_S14S12_proj_usfund.pdf">"Impact of US Federal Funding on Global e-Health Initiatives in Developing Countries" (PDF)</a>&nbsp;by Patrick Pascal Saint-Firmin, Olateju Sarafadeen, Ikenna Momah, Arjuna Premachandra, and anonymous student.</p>
+<p><a href="1/MITHST_S14S11_proj_vaccine.pdf">"Vaccine Supply Chain in Ethiopia" (PDF)</a>&nbsp;by Hajara Nanteza Walusimbi and three anonymous students.</p>
+</br>
