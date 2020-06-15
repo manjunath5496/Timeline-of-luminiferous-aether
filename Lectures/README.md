@@ -22,7 +22,7 @@
 <li><a href="#course21">Medical Artificial Intelligence</a></li>
 <li><a href="#course22">Designing and Sustaining Technology Innovation for Global Health Practice</a></li>
 <li><a href="#course23">Molecular Biology for the Auditory System</a></li>
-<li><a href="#course24">Introduction to Plasma Physics I</a></li>
+<li><a href="#course24">Quantitative Physiology: Organ Transport Systems</a></li>
 <li><a href="#course25">MHD Theory of Fusion Systems</a></li>
 <li><a href="#course26">Plasma Transport Theory</a></li>
 <li><a href="#course27">Superconducting Magnets</a></li>
@@ -2439,6 +2439,86 @@
 </tr>
 <tr class="row">
 <td>Exam</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course24">Quantitative Physiology: Organ Transport Systems</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col" abbr="Week Number">ASSIGNMENTS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Problem Set 1 (<a href="4/ps1.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps1_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;2 (<a href="4/ps2.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps2_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set&nbsp;3 (<a href="4/ps3.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps3_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set 4 (<a href="4/ps4.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps4_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set&nbsp;5 (<a href="4/ps5.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps5_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;6 (<a href="4/ps6.pdf">PDF</a>)</td>
+<td headers="col2">
+<p>(<a href="4/ps6solutions.pdf">PDF</a>)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set&nbsp;7 (<a href="4/ps7.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps7_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;8 (<a href="4/ps8.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps8_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set&nbsp;9 (<a href="4/ps9.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps9_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set 10 (<a href="4/ps10.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/ps10_solutions.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col" abbr="Week Number">EXAMS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Exam 1 (<a href="4/quiz1.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/quiz1_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Exam 2 (<a href="4/quiz2.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/quiz2_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Exam 3 (<a href="4/quiz3.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="4/quiz3_solutions.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
