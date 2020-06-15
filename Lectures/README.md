@@ -23,7 +23,7 @@
 <li><a href="#course22">Designing and Sustaining Technology Innovation for Global Health Practice</a></li>
 <li><a href="#course23">Molecular Biology for the Auditory System</a></li>
 <li><a href="#course24">Quantitative Physiology: Organ Transport Systems</a></li>
-<li><a href="#course25">MHD Theory of Fusion Systems</a></li>
+<li><a href="#course25">Information Technology in the Health Care System of the Future</a></li>
 <li><a href="#course26">Plasma Transport Theory</a></li>
 <li><a href="#course27">Superconducting Magnets</a></li>
 <li><a href="#course28">Introduction to Sustainable Energy</a></li> 
@@ -2523,3 +2523,64 @@
 </tbody>
 </table>
 </br>
+<h2 id="course25">Information Technology in the Health Care System of the Future</h2>
+
+<table class="tablewidth" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;TOPICS</th>
+<th scope="col">LECTURES&nbsp;AND&nbsp;TUTORIALS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Welcome and course introduction Evolution of cybermedicine</td>
+<td>
+<p>Dr. Steven Locke: Course Introduction (<a href="4/MITHST_921S09_lec01_locke.pdf">PDF</a>)</p>
+<p>Dr. Warner Slack: Evolution of Cybermedicine&nbsp;<span class="nobr">(<a href="4/MITHST_921S09_lec01_slack.pdf">PDF - 1.0MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Industry overview: the future of healthcare</td>
+<td>Craig Schneider: The Massachusetts Health Data Consortium in 2009 (<a href="4/MITHST_921S09_lec02_schnei.pdf">PDF</a>) (Courtesy of Craig Schneider. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>eHRs, pHRs &amp; xHRs!</td>
+<td>
+<p>Dr. Danny Sands: eHR's, pHR's, xHR's!&nbsp;<span class="nobr">(<a href="4/MITHST_921S09_lec04_sands.pdf">PDF - 1.2MB</a>)</span></p>
+<p>Tutorial: Uniqueness and Complimentary Assets (<a href="4/MITHST_921S09_lec04_tu_unq.pdf">PDF</a>)</p>
+<p>Tutorial: Makings of a Team (<a href="4/MITHST_921S09_lec04_tu_tm.pdf">PDF</a>)</p>
+<p>Tutorial: Project Management Timeline (<a href="4/MITHST_921S09_lec04_tut_pm.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>The role of innovation in enterprise computing</td>
+<td>
+<p>Dr. John Glaser: The Future of HealthCare Information Technology&nbsp;<span class="nobr">(<a href="4/MITHST_921S09_lec05_glaser.pdf">PDF - 1.1MB</a>)</span></p>
+<p>Tutorial: Business Plans (<a href="4/MITHST_921S09_lec05_bizplan.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>From disease management to population health management</td>
+<td>
+<p>Dr. David Judge: Ambulatory Practice of the Future (<a href="4/MITHST_921S09_lec07_judge.pdf">PDF</a>)</p>
+<p>Tutorial: Preparing your Elevator Pitch (<a href="4/MITHST_921S09_lec07_tu_pch.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>An investor's view of startups</td>
+<td>Eugene Hill: How Venture Capitalists Assess Healthcare Information Technology Business Plans (<a href="4/MITHST_921S09_lec08_hill.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Starting up: funding sources for for-profit and social entrepreneurship</td>
+<td>Panel: Starting up: Funding Sources for For-Profit and Social Entrepreneurship (<a href="4/MITHST_921S09_lec10_panel.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Global perspective on health informatics business</td>
+<td>Keith Strier (Deloitte LLP): Rise of the Data Tiger: Will Asia Assume Global Leadership in Health Informatics?&nbsp;<span class="nobr">(<a href="4/MITHST_921S09_lec14_strier.pdf">PDF - 1.5MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
