@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Musculoskeletal Pathophysiology</a></li>
-<li><a href="#course2">Seminar: Fusion and Plasma Physics</a></li>
+<li><a href="#course2">Principle and Practice of Human Pathology</a></li>
 <li><a href="#course3">Introduction to Applied Nuclear Physics</a></li>
 <li><a href="#course4">Nuclear Systems Design Project</a></li>
 <li><a href="#course5">Neutron Science and Reactor Physics</a></li>
@@ -106,6 +106,96 @@
 <p>Solution to Final Exam (<a href="hms_3297_ans_01.pdf">PDF</a>)</p>
 </br>
 
+<h2 id="course2">Principle and Practice of Human Pathology</h2>
 
-
-
+<table class="tablewidth100" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction to Human Pathology and Diagnostic Medicine (1 hr.) -&nbsp;<em>Dr. Badizadegan</em>&nbsp;(<a href="introduction_2003.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Cytoskeleton and the Extracellular Matrix: "Scaffoldings of Life" (1 hr.) -&nbsp;<em>Dr. Ingber</em><br /><br />Epithelial Structure and Function (1 hr.) -&nbsp;<em>Dr. Badizadegan</em>&nbsp;(<a href="epithelium_2003.pdf">PDF - 2.9 MB</a>)<br /><br />The Immune System (1 hr.) -&nbsp;<em>Dr. Badizadegan</em>&nbsp;(<a href="immunesystem2003.pdf">PDF - 2.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Cell Injury, Adaptation and Death (1 hr.) -&nbsp;<em>Dr. Badizadegan</em>&nbsp;(<a href="cellinjury_2003.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Acute and Chronic Inflammation (1 hr.) -&nbsp;<em>Dr. Badizadegan</em>&nbsp;(<a href="inflammation2003.pdf">PDF - 2.7 MB</a>)<br /><br />Tissue Repair, Fibrosis and Healing (1 hr.) -&nbsp;<em>Dr. Badizadegan</em>&nbsp;(<a href="tissuerepair2003.pdf">PDF - 1.3 MB</a>)<br /><br />Diseases of Immunity (1 hr.) -&nbsp;<em>Dr. Mitchell</em></td>
+</tr>
+<tr class="row">
+<td headers="col2">Infectious Diseases: "The Biological Conflict of Interest" (1 hr.) -&nbsp;<em>Dr. Badizadegan</em>&nbsp;(<a href="infections.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Transplantation: "Friendly Organs in a Hostile Environment" (1 hr.) -&nbsp;<em>Dr. Colvin</em>&nbsp;(<a href="transplant_2003.pdf">PDF - 1.1 MB</a>)<br /><br />Tissue Engineering and Organ Fabrication: "Medical Rationale and Engineering Challenges" (1 hr.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Host Response to Artificial Materials and Implanted Devices (1 hr.) -&nbsp;<em>Dr. Schoen</em></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction to Organ Systems Pathology (1 hr.) -&nbsp;<em>Dr. Badizadegan</em><br /><br />Are We What We Eat? "The Link Between Diet and Disease Development" (1 hr.) -&nbsp;<em>Dr. Hu</em>&nbsp;(<a href="optimal_diets_sl.pdf">PDF - 1.3 MB</a>)<br /><br />Environmental Exposure: "Is It Making You Sick?" (1 hr.) -&nbsp;<em>Dr. Dockery</em></td>
+</tr>
+<tr class="row">
+<td headers="col2">Cardiomyopathies: "Many Roads to a Broken Heart" (1 hr.) -&nbsp;<em>Dr. Seidman</em></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Vascular Pathobiology: "Endothelium as Nature's Blood Container" (1.5 hrs.) -&nbsp;<em>Dr. Gimbrone</em><br /><br />Ischemia and Infarction (1 hr.) -&nbsp;<em>Dr. Badizadegan</em>&nbsp;(<a href="isch_infarct2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Patterns and Consequences of Glomerular Damage (1 hr.) -&nbsp;<em>Dr. Rennke</em></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Genetic Disorders (1 hr.) -&nbsp;<em>Dr. Badizadegan</em>&nbsp;(<a href="genetics_2003.pdf">PDF - 1.2 MB</a>)<br /><br />Diseases of the Lung (1.5 hrs.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Liver (1 hr.) -&nbsp;<em>Dr. Badizadegan</em>&nbsp;(<a href="liver.pdf">PDF - 2.9 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Gastrointestinal Disorders: "Guts with No Glory!" (2 hrs.) -&nbsp;<em>Dr. Badizadegan</em><br /><br />Genetic Progression in Gastrointestinal Neoplasia (1 hr.) -&nbsp;<em>Dr. Redston</em></td>
+</tr>
+<tr class="row">
+<td headers="col2">Cervical Neoplasia: "Lessons from Viral Oncogenesis" (1 hr.) -&nbsp;<em>Dr. Crum</em></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Mid-Term Exam (1 hr.)<br /><br />Feedback Session and Review of the Mid-Term Exam (1 hr.)<br /><br />Lymphoid Neoplasms (1 hr.) -&nbsp;<em>Dr. Aster</em></td>
+</tr>
+<tr class="row">
+<td headers="col2">Sickle Cell Disease: "From Membrane Pathophysiology to Membrane-Targeted Therapy" (1 hr.) -&nbsp;<em>Dr. Brugnara</em></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction to the Nervous System (1 hr.)<br /><br />Toxic Proteins and Neurodegenerative Diseases (1 hr.)<br /><br />CNS Neoplasia (1 hr.) -&nbsp;<em>Dr. Louis</em></td>
+</tr>
+<tr class="row">
+<td headers="col2">Diseases of Skeletal Muscle (1 hr.) -&nbsp;<em>Dr. Lidov</em></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Surgical Pathology and Other Gold Standards (1 hr.) -&nbsp;<em>Dr. Badizadegan</em><br /><br />Molecular and Cytogenetic Analyses in Diagnostic Pathology (1 hr.) -&nbsp;<em>Dr. Fletcher</em><br /><br />DNA Microarrays in Cancer Diagnosis and Management (1 hr.) -&nbsp;<em>Dr. Golub</em></td>
+</tr>
+<tr class="row">
+<td headers="col2">Bioinformatics in Pathology: "Can Any Useful Information be Extracted from All This Data?" (1 hr.)<br /><br />Functional Imaging (1 hr.) -&nbsp;<em>Dr. Rosen</em><br /><br />Molecular Imaging (1 hr.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Optical Coherence Tomography: "Shedding Light on Human Disease" (1 hr.) -&nbsp;<em>Dr. Tearney</em><br /><br />Optical Spectroscopy: "Diagnosis in a Flash!" (1 hr.) -&nbsp;<em>Dr. Feld</em><br /><br />Transfer of Healthcare Technologies: "How to Make New Diagnostic Technologies a Clinical Reality?" (1 hr.) -&nbsp;<em>Dr. Murray</em></td>
+</tr>
+<tr class="row">
+<td headers="col2">Student Presentations (3 hrs.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Student Presentations (3 hrs.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Autopsy: "The Final Answer?" (Medical Area) (1 hr.) -&nbsp;<em>Dr. Badizadegan</em></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Pathology and the Law (1 hr.) -&nbsp;<em>Dr. Bieber</em><br /><br />Human Pathology: "Past, Present, and the Future" (1 hr.) - Panel Discussion</td>
+</tr>
+<tr class="row">
+<td headers="col2">Final Exam</td>
+</tr>
+</tbody>
+</table>
+</br>
