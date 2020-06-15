@@ -19,7 +19,7 @@
 <li><a href="#course18">Biomedical Engineering Seminar Series: Developing Professional Skills</a></li>
 <li><a href="#course19">Brain Mechanisms for Hearing and Speech</a></li>
 <li><a href="#course20">Neural Coding and Perception of Sound</a></li>
-<li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
+<li><a href="#course21">Medical Artificial Intelligence</a></li>
 <li><a href="#course22">Principles of Radiation Interactions</a></li>
 <li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
 <li><a href="#course24">Introduction to Plasma Physics I</a></li>
@@ -2238,3 +2238,23 @@
 </tbody>
 </table>
 </br>
+<h2 id="course21">Medical Artificial Intelligence</h2>
+
+<p>Chapter 1: Introduction (<a href="3/ch1_intro.pdf">PDF - 2.4 MB</a>)</p>
+<p>Chapter 2: Search (<a href="3/ch2_search1.pdf">PDF 1 of 3 - 2.6 MB</a>) (<a href="3/ch2_search2.pdf">PDF 2 of 3 - 1.9 MB</a>) (<a href="3/ch2_search3.pdf">PDF 3 of 3 - 2.4 MB</a>)</p>
+<p>Chapter 3: CSP and Games (<a href="3/ch3_csp_games1.pdf">PDF 1 of 2 - 2.4 MB</a>) (<a href="3/ch3_csp_games2.pdf">PDF 2 of 2</a>)</p>
+<p>Chapter 4: Learning Introduction (<a href="3/ch4_learnintro.pdf">PDF - 2.4 MB</a>)</p>
+<p>Chapter 5: Machine Learning I (<a href="3/ch5_mach1.pdf">PDF - 1.5 MB</a>)</p>
+<p>Chapter 6: Machine Learning II (<a href="3/ch6_mach2.pdf">PDF - 1.7 MB</a>)</p>
+<p>Chapter 7: Machine Learning III (<a href="3/ch7_mach3.pdf">PDF - 1.9 MB</a>)</p>
+<p>Chapter 8: Machine Learning IV (<a href="3/ch8_mach4.pdf">PDF - 2.1 MB</a>)</p>
+<p>Chapter 9: Logic I (<a href="3/ch9_logic1a.pdf">PDF 1 of 2 - 1.6 MB</a>) (<a href="3/ch9_logic1b.pdf">PDF 2 of 2 - 2.1 MB</a>)</p>
+<p>Chapter 10: Logic II (<a href="3/ch10_logic2a.pdf">PDF 1 of 2 - 2.1 MB</a>) (<a href="3/ch10_logic2b.pdf">PDF 2 of 2 - 1.9 MB</a>)</p>
+<p>Chapter 11: Logic Programming (<a href="3/ch11_logicprog.pdf">PDF - 1.4 MB</a>)</p>
+<p>Chapter 12: Language Understanding (<a href="3/ch12_language1.pdf">PDF 1 of 2 - 2.3 MB</a>) (<a href="3/ch12_language2.pdf">PDF 2 of 2 - 1.0 MB</a>)</p>
+
+</br>
+
+
+
+
