@@ -25,7 +25,7 @@
 <li><a href="#course24">Quantitative Physiology: Organ Transport Systems</a></li>
 <li><a href="#course25">Information Technology in the Health Care System of the Future</a></li>
 <li><a href="#course26">Functional Magnetic Resonance Imaging: Data Acquisition and Analysis</a></li>
-<li><a href="#course27">Superconducting Magnets</a></li>
+<li><a href="#course27">Medical Decision Support</a></li>
 <li><a href="#course28">Introduction to Sustainable Energy</a></li> 
  <li><a href="#course29">Managing Nuclear Technology</a></li> 
   <li><a href="#course30">A Hands-On Introduction to Nuclear Magnetic Resonance</a></li>
@@ -2745,4 +2745,145 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course27">Medical Decision Support</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl693id0_1" scope="col">TOPICS</th>
+<th id="tbl693id0_2" scope="col">LECTURER</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl693id0_1">Introduction to Course&nbsp;<span class="nobr">(<a href="5/hst951_1.pdf">PDF - 1.2 MB</a>)</span></td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Decision Analysis 1 (<a href="5/hst951_2.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Decision Analysis 2, Linear Regression (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/hst951_3.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Predictive Modeling, Data Collection</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Logistic Regression, MLE (<a href="5/hst951_4.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Evaluation (<a href="5/hst951_5.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Instance-based Models 1 - kNN</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Instance-based Models 2 - Trees and Rules</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Homework 2 - Trees and Rules</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Ensemble Models (<a href="5/hst951_6.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">PCA, LDA (<a href="5/hst951_7.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Unsupervised Learning (<a href="5/hst951_8.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Neural Networks (<a href="5/hst951_9.pdf">PDF - 1.2 MB</a>)</td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Homework 2 - Trees and Rules</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Review (<a href="5/review_hst951.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Survival Analysis (<a href="5/hst951_sur_anal.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">LOM</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Midterm</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Statistical Learning Theory (<a href="5/proplogic_sets.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Model Construction Schemas 1 (<a href="5/hst951_gen_fuz.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Model Construction Schemas 2</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Preprocessing Algorithms 1</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Preprocessing Algorithms 2</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Analysis of Problems, Complexity (<a href="5/hst951_gen_fuz.pdf">PDF</a>)</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Search Algorithms</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Bioinformatics 1 (Hypothesis Generation, Sequence Alignment) (<a href="5/hst951biocl_hout.pdf">PDF 1</a>) (<a href="5/hst951gprac_hand.pdf">PDF 2</a>) experiment.r (<a href="5/experiment.r">R</a>)</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Bioinformatics 2 (Phylogenetic Trees, Haplotype Tagging)</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="row">
+<td headers="tbl693id0_1">Student Project Presentation 1</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl693id0_1">Student Project Presentation 2</td>
+<td headers="tbl693id0_2">SV</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+<h3 class="subsubhead">Final Project by Mark Meyer, MD MPH.</h3>
+<p><a href="http://ocw.mit.edu/ans7870/HST/HST.951/f05/projects/Meyer/index.html">Application of Sequence Alignment Algorithms in Location Tracking Data to Determine Patient State in a Clinical Process</a></p>
+<p>Final Report (<a href="5/hst951_fin_rep.pdf">PDF</a>)</p>
+<p>Oral Presentation (<a href="5/seq_align.pdf">PDF - 1.70 MB</a>)</p>
+<h3 class="subsubhead">Final Project by Michael Blechner, MD.</h3>
+<p><a href="http://ocw.mit.edu/ans7870/HST/HST.951/f05/projects/Michael_Blechner/Behavior%20of%20Various%20Machine%20Learning%20Models%20in%20the%20Face%20of%20Noisy%20Data.htm">Behavior of Various Machine Learning Models in the Face of Noisy Data</a></p>
+<p>Final Report (<a href="5/full_text.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Final Project by Jaime Chang</h3>
+<p><a href="http://ocw.mit.edu/ans7870/HST/HST.951/f05/projects/Jamie_Chang/Computerized%20Pulmonary%20Artery%20Catheter%20Waveform%20Interpretation.htm">Computerized Pulmonary Artery Catheter Waveform Interpretation</a></p>
+<p>Final Report (<a href="5/pac.pdf">PDF</a>)</p>
+<p>Oral Presentation (<a href="5/pac_ppt.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Final Project by Jessie I. Chen</h3>
+<p><a href="http://ocw.mit.edu/ans7870/HST/HST.951/f05/projects/JessieChen/MDS%20Final%20Project.htm">C# .NET Algorithm for Variable Selection Based on the Mallow's Cp Criterion</a></p>
+<p>Final Report (<a href="5/jessiechenpaper.pdf">PDF</a>)</p>
 </br>
